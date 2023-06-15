@@ -1,0 +1,5458 @@
+I am 0 processor read the model
+Allocates array Fro,Fmu,Fla
+ Allocates array zro,zmu,zla
+I am 0 prosessor finish read the model
+ dz= 2.00000e-02 dx= 2.00000e-02
+   LIZ =   101   LIX =  4401   LPZ = -9223372036854775808   LPX = -9223372036854775808   LPdX =    25
+   NTR =  2250   KTR =  1000   KTR1 =   100   KTR2 =   150
+ ash = 1200.0  for Signal = 8.0 HZ
+ for ash = 1200.0
+ max numbers garmonic Laguerre =   9598
+ t = 0.0 NW = 150
+ t = 0.1 NW = 200
+ t = 0.2 NW = 250
+ t = 0.3 NW = 250
+ t = 0.4 NW = 300
+ t = 0.5 NW = 350
+ t = 0.6 NW = 350
+ t = 0.7 NW = 400
+ t = 0.8 NW = 400
+ t = 0.9 NW = 450
+ t = 1.0 NW = 500
+ t = 1.1 NW = 500
+ t = 1.2 NW = 550
+ t = 1.3 NW = 600
+ t = 1.4 NW = 600
+ t = 1.5 NW = 650
+ t = 1.6 NW = 650
+ t = 1.7 NW = 700
+ t = 1.8 NW = 750
+ t = 1.9 NW = 750
+ t = 2.0 NW = 800
+ t = 2.1 NW = 850
+ t = 2.2 NW = 850
+ t = 2.3 NW = 900
+ t = 2.4 NW = 950
+ t = 2.5 NW = 950
+ t = 2.6 NW = 1000
+ t = 2.7 NW = 1050
+ t = 2.8 NW = 1050
+ t = 2.9 NW = 1100
+ t = 3.0 NW = 1100
+ t = 3.1 NW = 1150
+ t = 3.2 NW = 1200
+ t = 3.3 NW = 1200
+ t = 3.4 NW = 1250
+ t = 3.5 NW = 1300
+ t = 3.6 NW = 1300
+ t = 3.7 NW = 1350
+ t = 3.8 NW = 1400
+ t = 3.9 NW = 1400
+ t = 4.0 NW = 1450
+ t = 4.1 NW = 1450
+ t = 4.2 NW = 1500
+ t = 4.3 NW = 1550
+ t = 4.4 NW = 1550
+ t = 4.5 NW = 1600
+ t = 4.6 NW = 1650
+ t = 4.7 NW = 1650
+ t = 4.8 NW = 1700
+ t = 4.9 NW = 1750
+ t = 5.0 NW = 1750
+ t = 5.1 NW = 1800
+ t = 5.2 NW = 1850
+ t = 5.3 NW = 1850
+ t = 5.4 NW = 1900
+ t = 5.5 NW = 1900
+ t = 5.6 NW = 1950
+ t = 5.7 NW = 2000
+ t = 5.8 NW = 2000
+ t = 5.9 NW = 2050
+ t = 6.0 NW = 2100
+ t = 6.1 NW = 2100
+ t = 6.2 NW = 2150
+ t = 6.3 NW = 2200
+ t = 6.4 NW = 2200
+ t = 6.5 NW = 2250
+ t = 6.6 NW = 2300
+ t = 6.7 NW = 2300
+ t = 6.8 NW = 2350
+ t = 6.9 NW = 2350
+ t = 7.0 NW = 2400
+ t = 7.1 NW = 2450
+ t = 7.2 NW = 2450
+ t = 7.3 NW = 2500
+ t = 7.4 NW = 2550
+ t = 7.5 NW = 2550
+ t = 7.6 NW = 2600
+ t = 7.7 NW = 2650
+ t = 7.8 NW = 2650
+ t = 7.9 NW = 2700
+ t = 8.0 NW = 2750
+ t = 8.1 NW = 2750
+ t = 8.2 NW = 2800
+ t = 8.3 NW = 2800
+ t = 8.4 NW = 2850
+ t = 8.5 NW = 2900
+ t = 8.6 NW = 2900
+ t = 8.7 NW = 2950
+ t = 8.8 NW = 3000
+ t = 8.9 NW = 3000
+ t = 9.0 NW = 3050
+ t = 9.1 NW = 3100
+ t = 9.2 NW = 3100
+ t = 9.3 NW = 3150
+ t = 9.4 NW = 3200
+ t = 9.5 NW = 3200
+ t = 9.6 NW = 3250
+ t = 9.7 NW = 3300
+ t = 9.8 NW = 3300
+ t = 9.9 NW = 3350
+ t = 10.0 NW = 3350
+ t = 10.1 NW = 3400
+ t = 10.2 NW = 3450
+ t = 10.3 NW = 3450
+ t = 10.4 NW = 3500
+ t = 10.5 NW = 3550
+ t = 10.6 NW = 3550
+ t = 10.7 NW = 3600
+ t = 10.8 NW = 3650
+ t = 10.9 NW = 3650
+ t = 11.0 NW = 3700
+ t = 11.1 NW = 3700
+ t = 11.2 NW = 3750
+ t = 11.3 NW = 3800
+ t = 11.4 NW = 3800
+ t = 11.5 NW = 3850
+ t = 11.6 NW = 3900
+ t = 11.7 NW = 3900
+ t = 11.8 NW = 3950
+ t = 11.9 NW = 4000
+ t = 12.0 NW = 4000
+ t = 12.1 NW = 4050
+ t = 12.2 NW = 4100
+ t = 12.3 NW = 4100
+ t = 12.4 NW = 4150
+ t = 12.5 NW = 4200
+ t = 12.6 NW = 4200
+ t = 12.7 NW = 4250
+ t = 12.8 NW = 4250
+ t = 12.9 NW = 4300
+ t = 13.0 NW = 4350
+ t = 13.1 NW = 4350
+ t = 13.2 NW = 4400
+ t = 13.3 NW = 4450
+ t = 13.4 NW = 4450
+ t = 13.5 NW = 4500
+ t = 13.6 NW = 4550
+ t = 13.7 NW = 4550
+ t = 13.8 NW = 4600
+ t = 13.9 NW = 4650
+ t = 14.0 NW = 4650
+ t = 14.1 NW = 4700
+ t = 14.2 NW = 4750
+ t = 14.3 NW = 4750
+ t = 14.4 NW = 4800
+ t = 14.5 NW = 4800
+ t = 14.6 NW = 4850
+ t = 14.7 NW = 4900
+ t = 14.8 NW = 4900
+ t = 14.9 NW = 4950
+ t = 15.0 NW = 5000
+ t = 15.1 NW = 5000
+ t = 15.2 NW = 5050
+ t = 15.3 NW = 5100
+ t = 15.4 NW = 5100
+ t = 15.5 NW = 5150
+ t = 15.6 NW = 5200
+ t = 15.7 NW = 5200
+ t = 15.8 NW = 5250
+ t = 15.9 NW = 5300
+ t = 16.0 NW = 5300
+ t = 16.1 NW = 5350
+ t = 16.2 NW = 5400
+ t = 16.3 NW = 5400
+ t = 16.4 NW = 5450
+ t = 16.5 NW = 5450
+ t = 16.6 NW = 5500
+ t = 16.7 NW = 5550
+ t = 16.8 NW = 5550
+ t = 16.9 NW = 5600
+ t = 17.0 NW = 5650
+ t = 17.1 NW = 5650
+ t = 17.2 NW = 5700
+ t = 17.3 NW = 5750
+ t = 17.4 NW = 5750
+ t = 17.5 NW = 5800
+ t = 17.6 NW = 5800
+ t = 17.7 NW = 5850
+ t = 17.8 NW = 5900
+ t = 17.9 NW = 5900
+ t = 18.0 NW = 5950
+ t = 18.1 NW = 6000
+ t = 18.2 NW = 6000
+ t = 18.3 NW = 6050
+ t = 18.4 NW = 6100
+ t = 18.5 NW = 6100
+ t = 18.6 NW = 6150
+ t = 18.7 NW = 6150
+ t = 18.8 NW = 6200
+ t = 18.9 NW = 6250
+ t = 19.0 NW = 6250
+ t = 19.1 NW = 6300
+ t = 19.2 NW = 6350
+ t = 19.3 NW = 6350
+ t = 19.4 NW = 6400
+ t = 19.5 NW = 6450
+ t = 19.6 NW = 6450
+ t = 19.7 NW = 6500
+ t = 19.8 NW = 6550
+ t = 19.9 NW = 6550
+ t = 20.0 NW = 6600
+ t = 20.1 NW = 6650
+ t = 20.2 NW = 6650
+ t = 20.3 NW = 6700
+ t = 20.4 NW = 6750
+ t = 20.5 NW = 6750
+ t = 20.6 NW = 6800
+ t = 20.7 NW = 6800
+ t = 20.8 NW = 6850
+ t = 20.9 NW = 6900
+ t = 21.0 NW = 6900
+ t = 21.1 NW = 6950
+ t = 21.2 NW = 7000
+ t = 21.3 NW = 7000
+ t = 21.4 NW = 7050
+ t = 21.5 NW = 7100
+ t = 21.6 NW = 7100
+ t = 21.7 NW = 7150
+ t = 21.8 NW = 7150
+ t = 21.9 NW = 7200
+ t = 22.0 NW = 7250
+ t = 22.1 NW = 7250
+ t = 22.2 NW = 7300
+ t = 22.3 NW = 7350
+ t = 22.4 NW = 7350
+ t = 22.5 NW = 7400
+ t = 22.6 NW = 7450
+ t = 22.7 NW = 7450
+ t = 22.8 NW = 7500
+ t = 22.9 NW = 7500
+ t = 23.0 NW = 7550
+ t = 23.1 NW = 7600
+ t = 23.2 NW = 7600
+ t = 23.3 NW = 7650
+ t = 23.4 NW = 7700
+ t = 23.5 NW = 7700
+ t = 23.6 NW = 7750
+ t = 23.7 NW = 7800
+ t = 23.8 NW = 7800
+ t = 23.9 NW = 7850
+ t = 24.0 NW = 7900
+ t = 24.1 NW = 7900
+ t = 24.2 NW = 7950
+ t = 24.3 NW = 8000
+ t = 24.4 NW = 8000
+ t = 24.5 NW = 8050
+ t = 24.6 NW = 8100
+ t = 24.7 NW = 8100
+ t = 24.8 NW = 8150
+ t = 24.9 NW = 8150
+ t = 25.0 NW = 8200
+ max garmonics Laguerre =8200
+Number size vector x -- Ntotal =50640751
+I am0 processor calculate from1 to 4501
+ Local size vector x -- LOCLEN =50640751
+
+ Laguerre garmonic it = 1
+ processor 0 calculation: number MATVEC =3 time MATVEC15.6
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.62000000
+
+ Laguerre garmonic it = 2
+ processor 0 calculation: number MATVEC =3 time MATVEC20.48700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.21400000
+
+ Laguerre garmonic it = 3
+ processor 0 calculation: number MATVEC =3 time MATVEC15.06700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.55300000
+
+ Laguerre garmonic it = 4
+ processor 0 calculation: number MATVEC =3 time MATVEC19.07700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.92400000
+
+ Laguerre garmonic it = 5
+ processor 0 calculation: number MATVEC =3 time MATVEC15.98400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.98000000
+
+ Laguerre garmonic it = 6
+ processor 0 calculation: number MATVEC =3 time MATVEC19.29600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.94900000
+
+ Laguerre garmonic it = 7
+ processor 0 calculation: number MATVEC =3 time MATVEC17.77000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.63700000
+
+ Laguerre garmonic it = 8
+ processor 0 calculation: number MATVEC =3 time MATVEC22.48200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     34.59200000
+
+ Laguerre garmonic it = 9
+ processor 0 calculation: number MATVEC =3 time MATVEC18.00000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.18200000
+
+ Laguerre garmonic it = 10
+ processor 0 calculation: number MATVEC =3 time MATVEC18.19600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.38500000
+
+ Laguerre garmonic it = 11
+ processor 0 calculation: number MATVEC =3 time MATVEC18.27600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.62600000
+
+ Laguerre garmonic it = 12
+ processor 0 calculation: number MATVEC =3 time MATVEC13.73400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.49900000
+
+ Laguerre garmonic it = 13
+ processor 0 calculation: number MATVEC =3 time MATVEC13.18800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.09200000
+
+ Laguerre garmonic it = 14
+ processor 0 calculation: number MATVEC =3 time MATVEC13.26300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.55600000
+
+ Laguerre garmonic it = 15
+ processor 0 calculation: number MATVEC =3 time MATVEC12.81400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.41700000
+
+ Laguerre garmonic it = 16
+ processor 0 calculation: number MATVEC =3 time MATVEC12.11500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.94900000
+
+ Laguerre garmonic it = 17
+ processor 0 calculation: number MATVEC =3 time MATVEC13.29400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.37600000
+
+ Laguerre garmonic it = 18
+ processor 0 calculation: number MATVEC =3 time MATVEC12.11500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.02900000
+
+ Laguerre garmonic it = 19
+ processor 0 calculation: number MATVEC =3 time MATVEC12.65400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.74900000
+
+ Laguerre garmonic it = 20
+ processor 0 calculation: number MATVEC =3 time MATVEC14.98800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.36800000
+
+ Laguerre garmonic it = 21
+ processor 0 calculation: number MATVEC =3 time MATVEC13.01300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.62700000
+
+ Laguerre garmonic it = 22
+ processor 0 calculation: number MATVEC =3 time MATVEC12.80300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.66200000
+
+ Laguerre garmonic it = 23
+ processor 0 calculation: number MATVEC =3 time MATVEC12.71900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.81900000
+
+ Laguerre garmonic it = 24
+ processor 0 calculation: number MATVEC =3 time MATVEC12.07100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.50800000
+
+ Laguerre garmonic it = 25
+ processor 0 calculation: number MATVEC =3 time MATVEC12.01400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.56900000
+
+ Laguerre garmonic it = 26
+ processor 0 calculation: number MATVEC =3 time MATVEC12.18900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.03200000
+
+ Laguerre garmonic it = 27
+ processor 0 calculation: number MATVEC =3 time MATVEC11.81200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.89200000
+
+ Laguerre garmonic it = 28
+ processor 0 calculation: number MATVEC =3 time MATVEC12.39000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.26600000
+
+ Laguerre garmonic it = 29
+ processor 0 calculation: number MATVEC =3 time MATVEC12.92600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.54800000
+
+ Laguerre garmonic it = 30
+ processor 0 calculation: number MATVEC =3 time MATVEC12.19200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.32500000
+
+ Laguerre garmonic it = 31
+ processor 0 calculation: number MATVEC =3 time MATVEC11.96200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.66600000
+
+ Laguerre garmonic it = 32
+ processor 0 calculation: number MATVEC =3 time MATVEC12.62700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.01500000
+
+ Laguerre garmonic it = 33
+ processor 0 calculation: number MATVEC =3 time MATVEC12.28200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.81700000
+
+ Laguerre garmonic it = 34
+ processor 0 calculation: number MATVEC =3 time MATVEC14.79200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.08700000
+
+ Laguerre garmonic it = 35
+ processor 0 calculation: number MATVEC =3 time MATVEC11.90800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     16.99200000
+
+ Laguerre garmonic it = 36
+ processor 0 calculation: number MATVEC =3 time MATVEC12.05000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.00200000
+
+ Laguerre garmonic it = 37
+ processor 0 calculation: number MATVEC =3 time MATVEC13.11400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.35100000
+
+ Laguerre garmonic it = 38
+ processor 0 calculation: number MATVEC =3 time MATVEC12.24100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.26100000
+
+ Laguerre garmonic it = 39
+ processor 0 calculation: number MATVEC =3 time MATVEC11.86300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.78700000
+
+ Laguerre garmonic it = 40
+ processor 0 calculation: number MATVEC =3 time MATVEC11.98000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.56000000
+
+ Laguerre garmonic it = 41
+ processor 0 calculation: number MATVEC =3 time MATVEC11.58800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.28400000
+
+ Laguerre garmonic it = 42
+ processor 0 calculation: number MATVEC =3 time MATVEC12.58700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.14500000
+
+ Laguerre garmonic it = 43
+ processor 0 calculation: number MATVEC =3 time MATVEC18.27700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.23000000
+
+ Laguerre garmonic it = 44
+ processor 0 calculation: number MATVEC =3 time MATVEC17.38800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.17100000
+
+ Laguerre garmonic it = 45
+ processor 0 calculation: number MATVEC =3 time MATVEC12.26400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.39100000
+
+ Laguerre garmonic it = 46
+ processor 0 calculation: number MATVEC =3 time MATVEC13.07900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.78900000
+
+ Laguerre garmonic it = 47
+ processor 0 calculation: number MATVEC =3 time MATVEC12.26300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.56300000
+
+ Laguerre garmonic it = 48
+ processor 0 calculation: number MATVEC =3 time MATVEC18.61500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.05100000
+
+ Laguerre garmonic it = 49
+ processor 0 calculation: number MATVEC =3 time MATVEC11.74700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.36100000
+
+ Laguerre garmonic it = 50
+ processor 0 calculation: number MATVEC =3 time MATVEC13.40400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.68000000
+
+ Laguerre garmonic it = 51
+ processor 0 calculation: number MATVEC =3 time MATVEC13.18400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.67700000
+
+ Laguerre garmonic it = 52
+ processor 0 calculation: number MATVEC =3 time MATVEC12.32500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.83100000
+
+ Laguerre garmonic it = 53
+ processor 0 calculation: number MATVEC =3 time MATVEC16.72800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.95800000
+
+ Laguerre garmonic it = 54
+ processor 0 calculation: number MATVEC =3 time MATVEC12.02200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.16000000
+
+ Laguerre garmonic it = 55
+ processor 0 calculation: number MATVEC =3 time MATVEC12.57400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.49200000
+
+ Laguerre garmonic it = 56
+ processor 0 calculation: number MATVEC =3 time MATVEC13.97800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.46900000
+
+ Laguerre garmonic it = 57
+ processor 0 calculation: number MATVEC =3 time MATVEC14.16800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.65200000
+
+ Laguerre garmonic it = 58
+ processor 0 calculation: number MATVEC =3 time MATVEC12.19300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.56500000
+
+ Laguerre garmonic it = 59
+ processor 0 calculation: number MATVEC =3 time MATVEC14.33800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.07900000
+
+ Laguerre garmonic it = 60
+ processor 0 calculation: number MATVEC =3 time MATVEC12.01100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.75400000
+
+ Laguerre garmonic it = 61
+ processor 0 calculation: number MATVEC =3 time MATVEC13.05700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.54100000
+
+ Laguerre garmonic it = 62
+ processor 0 calculation: number MATVEC =3 time MATVEC14.79800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.96500000
+
+ Laguerre garmonic it = 63
+ processor 0 calculation: number MATVEC =3 time MATVEC14.39100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.66900000
+
+ Laguerre garmonic it = 64
+ processor 0 calculation: number MATVEC =3 time MATVEC12.77900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.42700000
+
+ Laguerre garmonic it = 65
+ processor 0 calculation: number MATVEC =3 time MATVEC12.65200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.73300000
+
+ Laguerre garmonic it = 66
+ processor 0 calculation: number MATVEC =3 time MATVEC12.62600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.12700000
+
+ Laguerre garmonic it = 67
+ processor 0 calculation: number MATVEC =3 time MATVEC12.72500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.34200000
+
+ Laguerre garmonic it = 68
+ processor 0 calculation: number MATVEC =3 time MATVEC13.48100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.11500000
+
+ Laguerre garmonic it = 69
+ processor 0 calculation: number MATVEC =3 time MATVEC14.70300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.44300000
+
+ Laguerre garmonic it = 70
+ processor 0 calculation: number MATVEC =3 time MATVEC12.76500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.31800000
+
+ Laguerre garmonic it = 71
+ processor 0 calculation: number MATVEC =3 time MATVEC19.13700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.50100000
+
+ Laguerre garmonic it = 72
+ processor 0 calculation: number MATVEC =3 time MATVEC13.30000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.04100000
+
+ Laguerre garmonic it = 73
+ processor 0 calculation: number MATVEC =3 time MATVEC13.54000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.07400000
+
+ Laguerre garmonic it = 74
+ processor 0 calculation: number MATVEC =3 time MATVEC14.19200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.27200000
+
+ Laguerre garmonic it = 75
+ processor 0 calculation: number MATVEC =3 time MATVEC14.65000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.53900000
+
+ Laguerre garmonic it = 76
+ processor 0 calculation: number MATVEC =3 time MATVEC15.58700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.26100000
+
+ Laguerre garmonic it = 77
+ processor 0 calculation: number MATVEC =3 time MATVEC15.42000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.50100000
+
+ Laguerre garmonic it = 78
+ processor 0 calculation: number MATVEC =3 time MATVEC15.03000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.49400000
+
+ Laguerre garmonic it = 79
+ processor 0 calculation: number MATVEC =3 time MATVEC13.67500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.95100000
+
+ Laguerre garmonic it = 80
+ processor 0 calculation: number MATVEC =3 time MATVEC14.13000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.02000000
+
+ Laguerre garmonic it = 81
+ processor 0 calculation: number MATVEC =3 time MATVEC13.97700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.20700000
+
+ Laguerre garmonic it = 82
+ processor 0 calculation: number MATVEC =3 time MATVEC14.08700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.16300000
+
+ Laguerre garmonic it = 83
+ processor 0 calculation: number MATVEC =3 time MATVEC14.75600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.18400000
+
+ Laguerre garmonic it = 84
+ processor 0 calculation: number MATVEC =3 time MATVEC14.19300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.75100000
+
+ Laguerre garmonic it = 85
+ processor 0 calculation: number MATVEC =3 time MATVEC14.37100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.39300000
+
+ Laguerre garmonic it = 86
+ processor 0 calculation: number MATVEC =3 time MATVEC13.37500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.54200000
+
+ Laguerre garmonic it = 87
+ processor 0 calculation: number MATVEC =3 time MATVEC13.11500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.75300000
+
+ Laguerre garmonic it = 88
+ processor 0 calculation: number MATVEC =3 time MATVEC16.08300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.94400000
+
+ Laguerre garmonic it = 89
+ processor 0 calculation: number MATVEC =3 time MATVEC14.14800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.73400000
+
+ Laguerre garmonic it = 90
+ processor 0 calculation: number MATVEC =3 time MATVEC12.80700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.07200000
+
+ Laguerre garmonic it = 91
+ processor 0 calculation: number MATVEC =3 time MATVEC14.71800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.58100000
+
+ Laguerre garmonic it = 92
+ processor 0 calculation: number MATVEC =3 time MATVEC12.79400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.23000000
+
+ Laguerre garmonic it = 93
+ processor 0 calculation: number MATVEC =3 time MATVEC13.53900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.42800000
+
+ Laguerre garmonic it = 94
+ processor 0 calculation: number MATVEC =3 time MATVEC13.20100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.04300000
+
+ Laguerre garmonic it = 95
+ processor 0 calculation: number MATVEC =3 time MATVEC13.82600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.43800000
+
+ Laguerre garmonic it = 96
+ processor 0 calculation: number MATVEC =3 time MATVEC14.04700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.98600000
+
+ Laguerre garmonic it = 97
+ processor 0 calculation: number MATVEC =3 time MATVEC19.54400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.12600000
+
+ Laguerre garmonic it = 98
+ processor 0 calculation: number MATVEC =3 time MATVEC14.85800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.75500000
+
+ Laguerre garmonic it = 99
+ processor 0 calculation: number MATVEC =3 time MATVEC13.62700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.85700000
+
+ Laguerre garmonic it = 100
+ processor 0 calculation: number MATVEC =3 time MATVEC14.16400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.35900000
+
+ Laguerre garmonic it = 101
+ processor 0 calculation: number MATVEC =3 time MATVEC12.90000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.07300000
+
+ Laguerre garmonic it = 102
+ processor 0 calculation: number MATVEC =3 time MATVEC16.74900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.69800000
+
+ Laguerre garmonic it = 103
+ processor 0 calculation: number MATVEC =3 time MATVEC13.50900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.75900000
+
+ Laguerre garmonic it = 104
+ processor 0 calculation: number MATVEC =3 time MATVEC13.60700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.50700000
+
+ Laguerre garmonic it = 105
+ processor 0 calculation: number MATVEC =3 time MATVEC14.56000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.49100000
+
+ Laguerre garmonic it = 106
+ processor 0 calculation: number MATVEC =3 time MATVEC14.35100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.45000000
+
+ Laguerre garmonic it = 107
+ processor 0 calculation: number MATVEC =3 time MATVEC13.36100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.43300000
+
+ Laguerre garmonic it = 108
+ processor 0 calculation: number MATVEC =3 time MATVEC21.88900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     30.61600000
+
+ Laguerre garmonic it = 109
+ processor 0 calculation: number MATVEC =3 time MATVEC14.15300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.45000000
+
+ Laguerre garmonic it = 110
+ processor 0 calculation: number MATVEC =3 time MATVEC13.11900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.91600000
+
+ Laguerre garmonic it = 111
+ processor 0 calculation: number MATVEC =3 time MATVEC15.55100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.57100000
+
+ Laguerre garmonic it = 112
+ processor 0 calculation: number MATVEC =3 time MATVEC14.37300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.37800000
+
+ Laguerre garmonic it = 113
+ processor 0 calculation: number MATVEC =3 time MATVEC14.98100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.60800000
+
+ Laguerre garmonic it = 114
+ processor 0 calculation: number MATVEC =3 time MATVEC37.50600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     53.19300000
+
+ Laguerre garmonic it = 115
+ processor 0 calculation: number MATVEC =3 time MATVEC13.87600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.28400000
+
+ Laguerre garmonic it = 116
+ processor 0 calculation: number MATVEC =3 time MATVEC13.31300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.49800000
+
+ Laguerre garmonic it = 117
+ processor 0 calculation: number MATVEC =3 time MATVEC13.72300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.20400000
+
+ Laguerre garmonic it = 118
+ processor 0 calculation: number MATVEC =3 time MATVEC13.97000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.35700000
+
+ Laguerre garmonic it = 119
+ processor 0 calculation: number MATVEC =3 time MATVEC16.19600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.54900000
+
+ Laguerre garmonic it = 120
+ processor 0 calculation: number MATVEC =3 time MATVEC14.26200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.64000000
+
+ Laguerre garmonic it = 121
+ processor 0 calculation: number MATVEC =3 time MATVEC14.07000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.59700000
+
+ Laguerre garmonic it = 122
+ processor 0 calculation: number MATVEC =3 time MATVEC12.50700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.30900000
+
+ Laguerre garmonic it = 123
+ processor 0 calculation: number MATVEC =3 time MATVEC15.29100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.83800000
+
+ Laguerre garmonic it = 124
+ processor 0 calculation: number MATVEC =3 time MATVEC12.87600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.00500000
+
+ Laguerre garmonic it = 125
+ processor 0 calculation: number MATVEC =3 time MATVEC14.50400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.95200000
+
+ Laguerre garmonic it = 126
+ processor 0 calculation: number MATVEC =3 time MATVEC12.76700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.73200000
+
+ Laguerre garmonic it = 127
+ processor 0 calculation: number MATVEC =3 time MATVEC15.56000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.17400000
+
+ Laguerre garmonic it = 128
+ processor 0 calculation: number MATVEC =3 time MATVEC14.12900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.14000000
+
+ Laguerre garmonic it = 129
+ processor 0 calculation: number MATVEC =3 time MATVEC13.04200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.06100000
+
+ Laguerre garmonic it = 130
+ processor 0 calculation: number MATVEC =3 time MATVEC12.94100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.81200000
+
+ Laguerre garmonic it = 131
+ processor 0 calculation: number MATVEC =3 time MATVEC13.00200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.53100000
+
+ Laguerre garmonic it = 132
+ processor 0 calculation: number MATVEC =3 time MATVEC12.76500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.33500000
+
+ Laguerre garmonic it = 133
+ processor 0 calculation: number MATVEC =3 time MATVEC15.51100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.68300000
+
+ Laguerre garmonic it = 134
+ processor 0 calculation: number MATVEC =3 time MATVEC12.70100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.18700000
+
+ Laguerre garmonic it = 135
+ processor 0 calculation: number MATVEC =3 time MATVEC14.28300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.71200000
+
+ Laguerre garmonic it = 136
+ processor 0 calculation: number MATVEC =3 time MATVEC13.25600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.95900000
+
+ Laguerre garmonic it = 137
+ processor 0 calculation: number MATVEC =3 time MATVEC17.28400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.79900000
+
+ Laguerre garmonic it = 138
+ processor 0 calculation: number MATVEC =3 time MATVEC13.03100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.62500000
+
+ Laguerre garmonic it = 139
+ processor 0 calculation: number MATVEC =3 time MATVEC15.05200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.18200000
+
+ Laguerre garmonic it = 140
+ processor 0 calculation: number MATVEC =3 time MATVEC13.60100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.26500000
+
+ Laguerre garmonic it = 141
+ processor 0 calculation: number MATVEC =3 time MATVEC14.67400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.23400000
+
+ Laguerre garmonic it = 142
+ processor 0 calculation: number MATVEC =3 time MATVEC14.11600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.54600000
+
+ Laguerre garmonic it = 143
+ processor 0 calculation: number MATVEC =3 time MATVEC13.30300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.01800000
+
+ Laguerre garmonic it = 144
+ processor 0 calculation: number MATVEC =3 time MATVEC13.59100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.32000000
+
+ Laguerre garmonic it = 145
+ processor 0 calculation: number MATVEC =3 time MATVEC13.44800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.86200000
+
+ Laguerre garmonic it = 146
+ processor 0 calculation: number MATVEC =3 time MATVEC12.78400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.68500000
+
+ Laguerre garmonic it = 147
+ processor 0 calculation: number MATVEC =3 time MATVEC13.08300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.92800000
+
+ Laguerre garmonic it = 148
+ processor 0 calculation: number MATVEC =3 time MATVEC16.27800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.96100000
+
+ Laguerre garmonic it = 149
+ processor 0 calculation: number MATVEC =3 time MATVEC13.35800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.39500000
+
+ Laguerre garmonic it = 150
+ processor 0 calculation: number MATVEC =3 time MATVEC18.15200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.86800000
+
+ Laguerre garmonic it = 151
+ processor 0 calculation: number MATVEC =3 time MATVEC16.26900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.72900000
+
+ Laguerre garmonic it = 152
+ processor 0 calculation: number MATVEC =3 time MATVEC16.72700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.44000000
+
+ Laguerre garmonic it = 153
+ processor 0 calculation: number MATVEC =3 time MATVEC12.86700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.01300000
+
+ Laguerre garmonic it = 154
+ processor 0 calculation: number MATVEC =3 time MATVEC12.70400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.87400000
+
+ Laguerre garmonic it = 155
+ processor 0 calculation: number MATVEC =3 time MATVEC12.76900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.66900000
+
+ Laguerre garmonic it = 156
+ processor 0 calculation: number MATVEC =3 time MATVEC15.15500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.85800000
+
+ Laguerre garmonic it = 157
+ processor 0 calculation: number MATVEC =3 time MATVEC15.21600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.75000000
+
+ Laguerre garmonic it = 158
+ processor 0 calculation: number MATVEC =3 time MATVEC12.55900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.95300000
+
+ Laguerre garmonic it = 159
+ processor 0 calculation: number MATVEC =3 time MATVEC13.65900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.28400000
+
+ Laguerre garmonic it = 160
+ processor 0 calculation: number MATVEC =3 time MATVEC13.47800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.68100000
+
+ Laguerre garmonic it = 161
+ processor 0 calculation: number MATVEC =3 time MATVEC13.05100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.08500000
+
+ Laguerre garmonic it = 162
+ processor 0 calculation: number MATVEC =3 time MATVEC13.31300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.05400000
+
+ Laguerre garmonic it = 163
+ processor 0 calculation: number MATVEC =3 time MATVEC13.34400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.45700000
+
+ Laguerre garmonic it = 164
+ processor 0 calculation: number MATVEC =3 time MATVEC14.81000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.14800000
+
+ Laguerre garmonic it = 165
+ processor 0 calculation: number MATVEC =3 time MATVEC16.46900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.29600000
+
+ Laguerre garmonic it = 166
+ processor 0 calculation: number MATVEC =3 time MATVEC14.36400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.33900000
+
+ Laguerre garmonic it = 167
+ processor 0 calculation: number MATVEC =3 time MATVEC13.36400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.16600000
+
+ Laguerre garmonic it = 168
+ processor 0 calculation: number MATVEC =3 time MATVEC12.51900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.75400000
+
+ Laguerre garmonic it = 169
+ processor 0 calculation: number MATVEC =3 time MATVEC18.47000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.23800000
+
+ Laguerre garmonic it = 170
+ processor 0 calculation: number MATVEC =3 time MATVEC13.36200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.43300000
+
+ Laguerre garmonic it = 171
+ processor 0 calculation: number MATVEC =3 time MATVEC13.90300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.44800000
+
+ Laguerre garmonic it = 172
+ processor 0 calculation: number MATVEC =3 time MATVEC15.18300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.86000000
+
+ Laguerre garmonic it = 173
+ processor 0 calculation: number MATVEC =3 time MATVEC14.55400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.27400000
+
+ Laguerre garmonic it = 174
+ processor 0 calculation: number MATVEC =3 time MATVEC14.17600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.14600000
+
+ Laguerre garmonic it = 175
+ processor 0 calculation: number MATVEC =3 time MATVEC13.41500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.09700000
+
+ Laguerre garmonic it = 176
+ processor 0 calculation: number MATVEC =3 time MATVEC13.91700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.16100000
+
+ Laguerre garmonic it = 177
+ processor 0 calculation: number MATVEC =3 time MATVEC15.27300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.17500000
+
+ Laguerre garmonic it = 178
+ processor 0 calculation: number MATVEC =3 time MATVEC14.38000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.01200000
+
+ Laguerre garmonic it = 179
+ processor 0 calculation: number MATVEC =3 time MATVEC14.47400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.45800000
+
+ Laguerre garmonic it = 180
+ processor 0 calculation: number MATVEC =3 time MATVEC14.43600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.41800000
+
+ Laguerre garmonic it = 181
+ processor 0 calculation: number MATVEC =3 time MATVEC12.91300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.20100000
+
+ Laguerre garmonic it = 182
+ processor 0 calculation: number MATVEC =3 time MATVEC12.64500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.72600000
+
+ Laguerre garmonic it = 183
+ processor 0 calculation: number MATVEC =3 time MATVEC15.32100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.95600000
+
+ Laguerre garmonic it = 184
+ processor 0 calculation: number MATVEC =3 time MATVEC14.30700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.15600000
+
+ Laguerre garmonic it = 185
+ processor 0 calculation: number MATVEC =3 time MATVEC15.00700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.63800000
+
+ Laguerre garmonic it = 186
+ processor 0 calculation: number MATVEC =3 time MATVEC14.86900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.41900000
+
+ Laguerre garmonic it = 187
+ processor 0 calculation: number MATVEC =3 time MATVEC14.22700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.59100000
+
+ Laguerre garmonic it = 188
+ processor 0 calculation: number MATVEC =3 time MATVEC13.61000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.61200000
+
+ Laguerre garmonic it = 189
+ processor 0 calculation: number MATVEC =3 time MATVEC13.89000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.81200000
+
+ Laguerre garmonic it = 190
+ processor 0 calculation: number MATVEC =3 time MATVEC12.93600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.03400000
+
+ Laguerre garmonic it = 191
+ processor 0 calculation: number MATVEC =3 time MATVEC14.93800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.81700000
+
+ Laguerre garmonic it = 192
+ processor 0 calculation: number MATVEC =3 time MATVEC13.72300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.50600000
+
+ Laguerre garmonic it = 193
+ processor 0 calculation: number MATVEC =3 time MATVEC13.51200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.67900000
+
+ Laguerre garmonic it = 194
+ processor 0 calculation: number MATVEC =3 time MATVEC15.32700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.98900000
+
+ Laguerre garmonic it = 195
+ processor 0 calculation: number MATVEC =3 time MATVEC16.53300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.42100000
+
+ Laguerre garmonic it = 196
+ processor 0 calculation: number MATVEC =3 time MATVEC15.40600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.39200000
+
+ Laguerre garmonic it = 197
+ processor 0 calculation: number MATVEC =3 time MATVEC13.83000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.94300000
+
+ Laguerre garmonic it = 198
+ processor 0 calculation: number MATVEC =3 time MATVEC13.48500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.89900000
+
+ Laguerre garmonic it = 199
+ processor 0 calculation: number MATVEC =3 time MATVEC14.02100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.79600000
+
+ Laguerre garmonic it = 200
+ processor 0 calculation: number MATVEC =3 time MATVEC13.90700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.38100000
+ write of NUMPICT = 1
+------------------------------------------
+
+ Laguerre garmonic it = 201
+ processor 0 calculation: number MATVEC =3 time MATVEC19.35100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.64400000
+
+ Laguerre garmonic it = 202
+ processor 0 calculation: number MATVEC =3 time MATVEC14.57300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.17300000
+
+ Laguerre garmonic it = 203
+ processor 0 calculation: number MATVEC =3 time MATVEC15.04700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.76200000
+
+ Laguerre garmonic it = 204
+ processor 0 calculation: number MATVEC =3 time MATVEC13.11300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.31600000
+
+ Laguerre garmonic it = 205
+ processor 0 calculation: number MATVEC =3 time MATVEC14.70000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.68200000
+
+ Laguerre garmonic it = 206
+ processor 0 calculation: number MATVEC =3 time MATVEC17.49000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.99300000
+
+ Laguerre garmonic it = 207
+ processor 0 calculation: number MATVEC =3 time MATVEC13.78800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.26700000
+
+ Laguerre garmonic it = 208
+ processor 0 calculation: number MATVEC =3 time MATVEC15.12200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.60500000
+
+ Laguerre garmonic it = 209
+ processor 0 calculation: number MATVEC =3 time MATVEC14.57500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.96000000
+
+ Laguerre garmonic it = 210
+ processor 0 calculation: number MATVEC =3 time MATVEC15.08500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.76700000
+
+ Laguerre garmonic it = 211
+ processor 0 calculation: number MATVEC =3 time MATVEC14.54600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.36800000
+
+ Laguerre garmonic it = 212
+ processor 0 calculation: number MATVEC =3 time MATVEC13.75300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.65900000
+
+ Laguerre garmonic it = 213
+ processor 0 calculation: number MATVEC =3 time MATVEC16.06100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.36800000
+
+ Laguerre garmonic it = 214
+ processor 0 calculation: number MATVEC =3 time MATVEC13.28500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.74100000
+
+ Laguerre garmonic it = 215
+ processor 0 calculation: number MATVEC =3 time MATVEC14.28800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.79800000
+
+ Laguerre garmonic it = 216
+ processor 0 calculation: number MATVEC =3 time MATVEC15.56500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.00600000
+
+ Laguerre garmonic it = 217
+ processor 0 calculation: number MATVEC =3 time MATVEC14.36200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.59500000
+
+ Laguerre garmonic it = 218
+ processor 0 calculation: number MATVEC =3 time MATVEC16.65400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.39000000
+
+ Laguerre garmonic it = 219
+ processor 0 calculation: number MATVEC =3 time MATVEC13.90100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.23100000
+
+ Laguerre garmonic it = 220
+ processor 0 calculation: number MATVEC =3 time MATVEC13.48000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.57100000
+
+ Laguerre garmonic it = 221
+ processor 0 calculation: number MATVEC =3 time MATVEC13.45100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.76700000
+
+ Laguerre garmonic it = 222
+ processor 0 calculation: number MATVEC =3 time MATVEC14.89100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.15200000
+
+ Laguerre garmonic it = 223
+ processor 0 calculation: number MATVEC =3 time MATVEC13.58200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.15300000
+
+ Laguerre garmonic it = 224
+ processor 0 calculation: number MATVEC =3 time MATVEC15.67500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.39800000
+
+ Laguerre garmonic it = 225
+ processor 0 calculation: number MATVEC =3 time MATVEC15.63600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.77800000
+
+ Laguerre garmonic it = 226
+ processor 0 calculation: number MATVEC =3 time MATVEC13.83800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.38300000
+
+ Laguerre garmonic it = 227
+ processor 0 calculation: number MATVEC =3 time MATVEC13.30900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.98800000
+
+ Laguerre garmonic it = 228
+ processor 0 calculation: number MATVEC =3 time MATVEC14.45100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.86100000
+
+ Laguerre garmonic it = 229
+ processor 0 calculation: number MATVEC =3 time MATVEC13.09100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.03300000
+
+ Laguerre garmonic it = 230
+ processor 0 calculation: number MATVEC =3 time MATVEC13.75500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.66500000
+
+ Laguerre garmonic it = 231
+ processor 0 calculation: number MATVEC =3 time MATVEC13.66500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.43900000
+
+ Laguerre garmonic it = 232
+ processor 0 calculation: number MATVEC =3 time MATVEC13.77400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.29600000
+
+ Laguerre garmonic it = 233
+ processor 0 calculation: number MATVEC =3 time MATVEC14.84600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.47500000
+
+ Laguerre garmonic it = 234
+ processor 0 calculation: number MATVEC =3 time MATVEC14.10500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.35300000
+
+ Laguerre garmonic it = 235
+ processor 0 calculation: number MATVEC =3 time MATVEC15.08300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.31400000
+
+ Laguerre garmonic it = 236
+ processor 0 calculation: number MATVEC =3 time MATVEC16.89500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.09400000
+
+ Laguerre garmonic it = 237
+ processor 0 calculation: number MATVEC =3 time MATVEC15.91000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.71500000
+
+ Laguerre garmonic it = 238
+ processor 0 calculation: number MATVEC =3 time MATVEC14.93700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.88500000
+
+ Laguerre garmonic it = 239
+ processor 0 calculation: number MATVEC =3 time MATVEC15.05600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.98800000
+
+ Laguerre garmonic it = 240
+ processor 0 calculation: number MATVEC =3 time MATVEC15.28000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.19400000
+
+ Laguerre garmonic it = 241
+ processor 0 calculation: number MATVEC =3 time MATVEC13.63700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.45500000
+
+ Laguerre garmonic it = 242
+ processor 0 calculation: number MATVEC =3 time MATVEC16.73400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.94400000
+
+ Laguerre garmonic it = 243
+ processor 0 calculation: number MATVEC =3 time MATVEC16.26700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.42100000
+
+ Laguerre garmonic it = 244
+ processor 0 calculation: number MATVEC =3 time MATVEC15.20000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.74000000
+
+ Laguerre garmonic it = 245
+ processor 0 calculation: number MATVEC =3 time MATVEC13.83100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.25300000
+
+ Laguerre garmonic it = 246
+ processor 0 calculation: number MATVEC =3 time MATVEC13.33700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.87600000
+
+ Laguerre garmonic it = 247
+ processor 0 calculation: number MATVEC =3 time MATVEC14.75900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.60100000
+
+ Laguerre garmonic it = 248
+ processor 0 calculation: number MATVEC =3 time MATVEC17.04000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.11100000
+
+ Laguerre garmonic it = 249
+ processor 0 calculation: number MATVEC =3 time MATVEC17.29700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.14300000
+
+ Laguerre garmonic it = 250
+ processor 0 calculation: number MATVEC =3 time MATVEC14.59000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.01600000
+ write of NUMPICT = 2
+------------------------------------------
+
+ Laguerre garmonic it = 251
+ processor 0 calculation: number MATVEC =3 time MATVEC15.25100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.18800000
+ write of NUMPICT = 3
+------------------------------------------
+
+ Laguerre garmonic it = 252
+ processor 0 calculation: number MATVEC =3 time MATVEC17.73700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.13900000
+
+ Laguerre garmonic it = 253
+ processor 0 calculation: number MATVEC =3 time MATVEC14.43100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.38400000
+
+ Laguerre garmonic it = 254
+ processor 0 calculation: number MATVEC =3 time MATVEC15.53700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.87600000
+
+ Laguerre garmonic it = 255
+ processor 0 calculation: number MATVEC =3 time MATVEC23.21300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.84900000
+
+ Laguerre garmonic it = 256
+ processor 0 calculation: number MATVEC =3 time MATVEC17.85900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.18600000
+
+ Laguerre garmonic it = 257
+ processor 0 calculation: number MATVEC =3 time MATVEC16.32600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.15600000
+
+ Laguerre garmonic it = 258
+ processor 0 calculation: number MATVEC =3 time MATVEC14.14400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.35500000
+
+ Laguerre garmonic it = 259
+ processor 0 calculation: number MATVEC =3 time MATVEC15.26400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.73100000
+
+ Laguerre garmonic it = 260
+ processor 0 calculation: number MATVEC =3 time MATVEC16.68900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.42500000
+
+ Laguerre garmonic it = 261
+ processor 0 calculation: number MATVEC =3 time MATVEC16.54500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.61600000
+
+ Laguerre garmonic it = 262
+ processor 0 calculation: number MATVEC =3 time MATVEC12.86700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.00600000
+
+ Laguerre garmonic it = 263
+ processor 0 calculation: number MATVEC =3 time MATVEC16.43200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.08600000
+
+ Laguerre garmonic it = 264
+ processor 0 calculation: number MATVEC =3 time MATVEC13.35400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.85500000
+
+ Laguerre garmonic it = 265
+ processor 0 calculation: number MATVEC =3 time MATVEC15.10800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.22400000
+
+ Laguerre garmonic it = 266
+ processor 0 calculation: number MATVEC =3 time MATVEC13.71700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.33200000
+
+ Laguerre garmonic it = 267
+ processor 0 calculation: number MATVEC =3 time MATVEC13.36300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.95500000
+
+ Laguerre garmonic it = 268
+ processor 0 calculation: number MATVEC =3 time MATVEC14.03800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.17900000
+
+ Laguerre garmonic it = 269
+ processor 0 calculation: number MATVEC =3 time MATVEC13.74300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.39000000
+
+ Laguerre garmonic it = 270
+ processor 0 calculation: number MATVEC =3 time MATVEC16.44300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.33300000
+
+ Laguerre garmonic it = 271
+ processor 0 calculation: number MATVEC =3 time MATVEC13.23700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.35600000
+
+ Laguerre garmonic it = 272
+ processor 0 calculation: number MATVEC =3 time MATVEC15.48200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.99200000
+
+ Laguerre garmonic it = 273
+ processor 0 calculation: number MATVEC =3 time MATVEC15.62600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.96200000
+
+ Laguerre garmonic it = 274
+ processor 0 calculation: number MATVEC =3 time MATVEC17.61700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.90700000
+
+ Laguerre garmonic it = 275
+ processor 0 calculation: number MATVEC =3 time MATVEC13.27400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.45200000
+
+ Laguerre garmonic it = 276
+ processor 0 calculation: number MATVEC =3 time MATVEC16.50700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.54700000
+
+ Laguerre garmonic it = 277
+ processor 0 calculation: number MATVEC =3 time MATVEC16.00300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.71100000
+
+ Laguerre garmonic it = 278
+ processor 0 calculation: number MATVEC =3 time MATVEC14.47800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.28900000
+
+ Laguerre garmonic it = 279
+ processor 0 calculation: number MATVEC =3 time MATVEC15.25500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.21000000
+
+ Laguerre garmonic it = 280
+ processor 0 calculation: number MATVEC =3 time MATVEC15.75600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.97900000
+
+ Laguerre garmonic it = 281
+ processor 0 calculation: number MATVEC =3 time MATVEC15.62000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.94700000
+
+ Laguerre garmonic it = 282
+ processor 0 calculation: number MATVEC =3 time MATVEC12.50600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.77500000
+
+ Laguerre garmonic it = 283
+ processor 0 calculation: number MATVEC =3 time MATVEC17.84800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.47700000
+
+ Laguerre garmonic it = 284
+ processor 0 calculation: number MATVEC =3 time MATVEC15.80100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.67000000
+
+ Laguerre garmonic it = 285
+ processor 0 calculation: number MATVEC =3 time MATVEC14.85300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.29600000
+
+ Laguerre garmonic it = 286
+ processor 0 calculation: number MATVEC =3 time MATVEC15.70700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.48200000
+
+ Laguerre garmonic it = 287
+ processor 0 calculation: number MATVEC =3 time MATVEC15.02000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.55500000
+
+ Laguerre garmonic it = 288
+ processor 0 calculation: number MATVEC =3 time MATVEC13.61300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.98000000
+
+ Laguerre garmonic it = 289
+ processor 0 calculation: number MATVEC =3 time MATVEC15.38800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.49900000
+
+ Laguerre garmonic it = 290
+ processor 0 calculation: number MATVEC =3 time MATVEC15.17300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.65200000
+
+ Laguerre garmonic it = 291
+ processor 0 calculation: number MATVEC =3 time MATVEC13.37300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.77300000
+
+ Laguerre garmonic it = 292
+ processor 0 calculation: number MATVEC =3 time MATVEC13.31700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.72300000
+
+ Laguerre garmonic it = 293
+ processor 0 calculation: number MATVEC =3 time MATVEC14.52700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.33300000
+
+ Laguerre garmonic it = 294
+ processor 0 calculation: number MATVEC =3 time MATVEC17.21400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.20800000
+
+ Laguerre garmonic it = 295
+ processor 0 calculation: number MATVEC =3 time MATVEC14.37200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.02200000
+
+ Laguerre garmonic it = 296
+ processor 0 calculation: number MATVEC =3 time MATVEC14.88800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.05600000
+
+ Laguerre garmonic it = 297
+ processor 0 calculation: number MATVEC =3 time MATVEC21.74300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.85900000
+
+ Laguerre garmonic it = 298
+ processor 0 calculation: number MATVEC =3 time MATVEC13.22500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.74800000
+
+ Laguerre garmonic it = 299
+ processor 0 calculation: number MATVEC =3 time MATVEC12.98600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.22100000
+
+ Laguerre garmonic it = 300
+ processor 0 calculation: number MATVEC =3 time MATVEC15.53900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.36600000
+ write of NUMPICT = 4
+------------------------------------------
+
+ Laguerre garmonic it = 301
+ processor 0 calculation: number MATVEC =3 time MATVEC18.29800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.78200000
+
+ Laguerre garmonic it = 302
+ processor 0 calculation: number MATVEC =3 time MATVEC13.48300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.54200000
+
+ Laguerre garmonic it = 303
+ processor 0 calculation: number MATVEC =3 time MATVEC16.17800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.95300000
+
+ Laguerre garmonic it = 304
+ processor 0 calculation: number MATVEC =3 time MATVEC14.55200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.48000000
+
+ Laguerre garmonic it = 305
+ processor 0 calculation: number MATVEC =3 time MATVEC13.52300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.18100000
+
+ Laguerre garmonic it = 306
+ processor 0 calculation: number MATVEC =3 time MATVEC13.38000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.43000000
+
+ Laguerre garmonic it = 307
+ processor 0 calculation: number MATVEC =3 time MATVEC13.20600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.31400000
+
+ Laguerre garmonic it = 308
+ processor 0 calculation: number MATVEC =3 time MATVEC15.76400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.59000000
+
+ Laguerre garmonic it = 309
+ processor 0 calculation: number MATVEC =3 time MATVEC20.33100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.03100000
+
+ Laguerre garmonic it = 310
+ processor 0 calculation: number MATVEC =3 time MATVEC15.72600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.05900000
+
+ Laguerre garmonic it = 311
+ processor 0 calculation: number MATVEC =3 time MATVEC15.15900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.64300000
+
+ Laguerre garmonic it = 312
+ processor 0 calculation: number MATVEC =3 time MATVEC13.95300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.98400000
+
+ Laguerre garmonic it = 313
+ processor 0 calculation: number MATVEC =3 time MATVEC15.34400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.88700000
+
+ Laguerre garmonic it = 314
+ processor 0 calculation: number MATVEC =3 time MATVEC15.60700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.88800000
+
+ Laguerre garmonic it = 315
+ processor 0 calculation: number MATVEC =3 time MATVEC13.24100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.47300000
+
+ Laguerre garmonic it = 316
+ processor 0 calculation: number MATVEC =3 time MATVEC16.49700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.26100000
+
+ Laguerre garmonic it = 317
+ processor 0 calculation: number MATVEC =3 time MATVEC15.38100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.54700000
+
+ Laguerre garmonic it = 318
+ processor 0 calculation: number MATVEC =3 time MATVEC16.23600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.94000000
+
+ Laguerre garmonic it = 319
+ processor 0 calculation: number MATVEC =3 time MATVEC13.10700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.52100000
+
+ Laguerre garmonic it = 320
+ processor 0 calculation: number MATVEC =3 time MATVEC14.51000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.93700000
+
+ Laguerre garmonic it = 321
+ processor 0 calculation: number MATVEC =3 time MATVEC13.59800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.40000000
+
+ Laguerre garmonic it = 322
+ processor 0 calculation: number MATVEC =3 time MATVEC13.61300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.60700000
+
+ Laguerre garmonic it = 323
+ processor 0 calculation: number MATVEC =3 time MATVEC15.30900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.70400000
+
+ Laguerre garmonic it = 324
+ processor 0 calculation: number MATVEC =3 time MATVEC13.28700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.68400000
+
+ Laguerre garmonic it = 325
+ processor 0 calculation: number MATVEC =3 time MATVEC15.88500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.37400000
+
+ Laguerre garmonic it = 326
+ processor 0 calculation: number MATVEC =3 time MATVEC11.05000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.23300000
+
+ Laguerre garmonic it = 327
+ processor 0 calculation: number MATVEC =3 time MATVEC15.25600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.93600000
+
+ Laguerre garmonic it = 328
+ processor 0 calculation: number MATVEC =3 time MATVEC13.65700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.83700000
+
+ Laguerre garmonic it = 329
+ processor 0 calculation: number MATVEC =3 time MATVEC16.25200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.08000000
+
+ Laguerre garmonic it = 330
+ processor 0 calculation: number MATVEC =3 time MATVEC15.47200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.04100000
+
+ Laguerre garmonic it = 331
+ processor 0 calculation: number MATVEC =3 time MATVEC15.55200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.49400000
+
+ Laguerre garmonic it = 332
+ processor 0 calculation: number MATVEC =3 time MATVEC16.04800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.90600000
+
+ Laguerre garmonic it = 333
+ processor 0 calculation: number MATVEC =3 time MATVEC13.87700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.60200000
+
+ Laguerre garmonic it = 334
+ processor 0 calculation: number MATVEC =3 time MATVEC13.25500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.66200000
+
+ Laguerre garmonic it = 335
+ processor 0 calculation: number MATVEC =3 time MATVEC12.58900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.87300000
+
+ Laguerre garmonic it = 336
+ processor 0 calculation: number MATVEC =3 time MATVEC14.79100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.08600000
+
+ Laguerre garmonic it = 337
+ processor 0 calculation: number MATVEC =3 time MATVEC15.10000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.04100000
+
+ Laguerre garmonic it = 338
+ processor 0 calculation: number MATVEC =3 time MATVEC15.41400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.51600000
+
+ Laguerre garmonic it = 339
+ processor 0 calculation: number MATVEC =3 time MATVEC12.81800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.58800000
+
+ Laguerre garmonic it = 340
+ processor 0 calculation: number MATVEC =3 time MATVEC17.60400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.95200000
+
+ Laguerre garmonic it = 341
+ processor 0 calculation: number MATVEC =3 time MATVEC15.19800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.93400000
+
+ Laguerre garmonic it = 342
+ processor 0 calculation: number MATVEC =3 time MATVEC16.79000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.43100000
+
+ Laguerre garmonic it = 343
+ processor 0 calculation: number MATVEC =3 time MATVEC14.52300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.08200000
+
+ Laguerre garmonic it = 344
+ processor 0 calculation: number MATVEC =3 time MATVEC15.75700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.19900000
+
+ Laguerre garmonic it = 345
+ processor 0 calculation: number MATVEC =3 time MATVEC15.03100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.36900000
+
+ Laguerre garmonic it = 346
+ processor 0 calculation: number MATVEC =3 time MATVEC13.36800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.13200000
+
+ Laguerre garmonic it = 347
+ processor 0 calculation: number MATVEC =3 time MATVEC16.89900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.57400000
+
+ Laguerre garmonic it = 348
+ processor 0 calculation: number MATVEC =3 time MATVEC14.99000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.58700000
+
+ Laguerre garmonic it = 349
+ processor 0 calculation: number MATVEC =3 time MATVEC13.08200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.27400000
+
+ Laguerre garmonic it = 350
+ processor 0 calculation: number MATVEC =3 time MATVEC13.53800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.40400000
+ write of NUMPICT = 5
+------------------------------------------
+
+ Laguerre garmonic it = 351
+ processor 0 calculation: number MATVEC =3 time MATVEC19.47000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.78000000
+ write of NUMPICT = 6
+------------------------------------------
+
+ Laguerre garmonic it = 352
+ processor 0 calculation: number MATVEC =3 time MATVEC21.56800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.67900000
+
+ Laguerre garmonic it = 353
+ processor 0 calculation: number MATVEC =3 time MATVEC18.18000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.58700000
+
+ Laguerre garmonic it = 354
+ processor 0 calculation: number MATVEC =3 time MATVEC15.72200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.56800000
+
+ Laguerre garmonic it = 355
+ processor 0 calculation: number MATVEC =3 time MATVEC13.73900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.95900000
+
+ Laguerre garmonic it = 356
+ processor 0 calculation: number MATVEC =3 time MATVEC13.41600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.09300000
+
+ Laguerre garmonic it = 357
+ processor 0 calculation: number MATVEC =3 time MATVEC11.70900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.48500000
+
+ Laguerre garmonic it = 358
+ processor 0 calculation: number MATVEC =3 time MATVEC12.93100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.07700000
+
+ Laguerre garmonic it = 359
+ processor 0 calculation: number MATVEC =3 time MATVEC13.92300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.20000000
+
+ Laguerre garmonic it = 360
+ processor 0 calculation: number MATVEC =3 time MATVEC13.53700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.41200000
+
+ Laguerre garmonic it = 361
+ processor 0 calculation: number MATVEC =3 time MATVEC15.44600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.67500000
+
+ Laguerre garmonic it = 362
+ processor 0 calculation: number MATVEC =3 time MATVEC13.61000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.64000000
+
+ Laguerre garmonic it = 363
+ processor 0 calculation: number MATVEC =3 time MATVEC13.66600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.35700000
+
+ Laguerre garmonic it = 364
+ processor 0 calculation: number MATVEC =3 time MATVEC14.28200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.79800000
+
+ Laguerre garmonic it = 365
+ processor 0 calculation: number MATVEC =3 time MATVEC14.02400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.85300000
+
+ Laguerre garmonic it = 366
+ processor 0 calculation: number MATVEC =3 time MATVEC17.70300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.50400000
+
+ Laguerre garmonic it = 367
+ processor 0 calculation: number MATVEC =3 time MATVEC15.47700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.61800000
+
+ Laguerre garmonic it = 368
+ processor 0 calculation: number MATVEC =3 time MATVEC13.32800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.62000000
+
+ Laguerre garmonic it = 369
+ processor 0 calculation: number MATVEC =3 time MATVEC15.68500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.32900000
+
+ Laguerre garmonic it = 370
+ processor 0 calculation: number MATVEC =3 time MATVEC13.94200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.79300000
+
+ Laguerre garmonic it = 371
+ processor 0 calculation: number MATVEC =3 time MATVEC13.76400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.09100000
+
+ Laguerre garmonic it = 372
+ processor 0 calculation: number MATVEC =3 time MATVEC15.74000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.49700000
+
+ Laguerre garmonic it = 373
+ processor 0 calculation: number MATVEC =3 time MATVEC15.37500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.96000000
+
+ Laguerre garmonic it = 374
+ processor 0 calculation: number MATVEC =3 time MATVEC12.90300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.11900000
+
+ Laguerre garmonic it = 375
+ processor 0 calculation: number MATVEC =3 time MATVEC15.84100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.06900000
+
+ Laguerre garmonic it = 376
+ processor 0 calculation: number MATVEC =3 time MATVEC11.37200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     17.67200000
+
+ Laguerre garmonic it = 377
+ processor 0 calculation: number MATVEC =3 time MATVEC15.59000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.01600000
+
+ Laguerre garmonic it = 378
+ processor 0 calculation: number MATVEC =3 time MATVEC13.64700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.06400000
+
+ Laguerre garmonic it = 379
+ processor 0 calculation: number MATVEC =3 time MATVEC12.52900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.31200000
+
+ Laguerre garmonic it = 380
+ processor 0 calculation: number MATVEC =3 time MATVEC16.30800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.80600000
+
+ Laguerre garmonic it = 381
+ processor 0 calculation: number MATVEC =3 time MATVEC13.76700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.30200000
+
+ Laguerre garmonic it = 382
+ processor 0 calculation: number MATVEC =3 time MATVEC15.45900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.06500000
+
+ Laguerre garmonic it = 383
+ processor 0 calculation: number MATVEC =3 time MATVEC13.79400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.52000000
+
+ Laguerre garmonic it = 384
+ processor 0 calculation: number MATVEC =3 time MATVEC13.35800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.94700000
+
+ Laguerre garmonic it = 385
+ processor 0 calculation: number MATVEC =3 time MATVEC15.81800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.87700000
+
+ Laguerre garmonic it = 386
+ processor 0 calculation: number MATVEC =3 time MATVEC16.84300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.63700000
+
+ Laguerre garmonic it = 387
+ processor 0 calculation: number MATVEC =3 time MATVEC15.56800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.24300000
+
+ Laguerre garmonic it = 388
+ processor 0 calculation: number MATVEC =3 time MATVEC16.18200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.57200000
+
+ Laguerre garmonic it = 389
+ processor 0 calculation: number MATVEC =3 time MATVEC14.47300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.07000000
+
+ Laguerre garmonic it = 390
+ processor 0 calculation: number MATVEC =3 time MATVEC17.78100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.55000000
+
+ Laguerre garmonic it = 391
+ processor 0 calculation: number MATVEC =3 time MATVEC13.43000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.29500000
+
+ Laguerre garmonic it = 392
+ processor 0 calculation: number MATVEC =3 time MATVEC16.70500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.96600000
+
+ Laguerre garmonic it = 393
+ processor 0 calculation: number MATVEC =3 time MATVEC12.84100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.97000000
+
+ Laguerre garmonic it = 394
+ processor 0 calculation: number MATVEC =3 time MATVEC17.10800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.08500000
+
+ Laguerre garmonic it = 395
+ processor 0 calculation: number MATVEC =3 time MATVEC14.64100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.03500000
+
+ Laguerre garmonic it = 396
+ processor 0 calculation: number MATVEC =3 time MATVEC14.11900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.52500000
+
+ Laguerre garmonic it = 397
+ processor 0 calculation: number MATVEC =3 time MATVEC13.34300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.16900000
+
+ Laguerre garmonic it = 398
+ processor 0 calculation: number MATVEC =3 time MATVEC12.79200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     16.93500000
+
+ Laguerre garmonic it = 399
+ processor 0 calculation: number MATVEC =3 time MATVEC16.67700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.11700000
+
+ Laguerre garmonic it = 400
+ processor 0 calculation: number MATVEC =3 time MATVEC16.27000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.49200000
+ write of NUMPICT = 7
+------------------------------------------
+
+ Laguerre garmonic it = 401
+ processor 0 calculation: number MATVEC =3 time MATVEC25.71600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     36.21100000
+ write of NUMPICT = 8
+------------------------------------------
+
+ Laguerre garmonic it = 402
+ processor 0 calculation: number MATVEC =3 time MATVEC17.89700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.31100000
+
+ Laguerre garmonic it = 403
+ processor 0 calculation: number MATVEC =3 time MATVEC14.47900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.15600000
+
+ Laguerre garmonic it = 404
+ processor 0 calculation: number MATVEC =3 time MATVEC16.01900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.93000000
+
+ Laguerre garmonic it = 405
+ processor 0 calculation: number MATVEC =3 time MATVEC13.14300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.01900000
+
+ Laguerre garmonic it = 406
+ processor 0 calculation: number MATVEC =3 time MATVEC13.64600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.97900000
+
+ Laguerre garmonic it = 407
+ processor 0 calculation: number MATVEC =3 time MATVEC17.66100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.24700000
+
+ Laguerre garmonic it = 408
+ processor 0 calculation: number MATVEC =3 time MATVEC14.77400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.44900000
+
+ Laguerre garmonic it = 409
+ processor 0 calculation: number MATVEC =3 time MATVEC15.11000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.03300000
+
+ Laguerre garmonic it = 410
+ processor 0 calculation: number MATVEC =3 time MATVEC14.84400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.61200000
+
+ Laguerre garmonic it = 411
+ processor 0 calculation: number MATVEC =3 time MATVEC13.17100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.20300000
+
+ Laguerre garmonic it = 412
+ processor 0 calculation: number MATVEC =3 time MATVEC18.77300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.27800000
+
+ Laguerre garmonic it = 413
+ processor 0 calculation: number MATVEC =3 time MATVEC14.50400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.72900000
+
+ Laguerre garmonic it = 414
+ processor 0 calculation: number MATVEC =3 time MATVEC13.65100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.91200000
+
+ Laguerre garmonic it = 415
+ processor 0 calculation: number MATVEC =3 time MATVEC15.31300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.27900000
+
+ Laguerre garmonic it = 416
+ processor 0 calculation: number MATVEC =3 time MATVEC14.29200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.75800000
+
+ Laguerre garmonic it = 417
+ processor 0 calculation: number MATVEC =3 time MATVEC16.04300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.91200000
+
+ Laguerre garmonic it = 418
+ processor 0 calculation: number MATVEC =3 time MATVEC13.67200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.80900000
+
+ Laguerre garmonic it = 419
+ processor 0 calculation: number MATVEC =3 time MATVEC23.95100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.81800000
+
+ Laguerre garmonic it = 420
+ processor 0 calculation: number MATVEC =3 time MATVEC14.79000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.62800000
+
+ Laguerre garmonic it = 421
+ processor 0 calculation: number MATVEC =3 time MATVEC15.54100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.98500000
+
+ Laguerre garmonic it = 422
+ processor 0 calculation: number MATVEC =3 time MATVEC14.82100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.54600000
+
+ Laguerre garmonic it = 423
+ processor 0 calculation: number MATVEC =3 time MATVEC10.66700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     15.70500000
+
+ Laguerre garmonic it = 424
+ processor 0 calculation: number MATVEC =3 time MATVEC15.87800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.78100000
+
+ Laguerre garmonic it = 425
+ processor 0 calculation: number MATVEC =3 time MATVEC13.20800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.39000000
+
+ Laguerre garmonic it = 426
+ processor 0 calculation: number MATVEC =3 time MATVEC15.51200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.71900000
+
+ Laguerre garmonic it = 427
+ processor 0 calculation: number MATVEC =3 time MATVEC18.16800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.12200000
+
+ Laguerre garmonic it = 428
+ processor 0 calculation: number MATVEC =3 time MATVEC13.92600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.83400000
+
+ Laguerre garmonic it = 429
+ processor 0 calculation: number MATVEC =3 time MATVEC15.47300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.86600000
+
+ Laguerre garmonic it = 430
+ processor 0 calculation: number MATVEC =3 time MATVEC15.35800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.12000000
+
+ Laguerre garmonic it = 431
+ processor 0 calculation: number MATVEC =3 time MATVEC14.28100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.33900000
+
+ Laguerre garmonic it = 432
+ processor 0 calculation: number MATVEC =3 time MATVEC15.59200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.36200000
+
+ Laguerre garmonic it = 433
+ processor 0 calculation: number MATVEC =3 time MATVEC14.63500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.33100000
+
+ Laguerre garmonic it = 434
+ processor 0 calculation: number MATVEC =3 time MATVEC14.19500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.53100000
+
+ Laguerre garmonic it = 435
+ processor 0 calculation: number MATVEC =3 time MATVEC12.99600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.92000000
+
+ Laguerre garmonic it = 436
+ processor 0 calculation: number MATVEC =3 time MATVEC14.10600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.85600000
+
+ Laguerre garmonic it = 437
+ processor 0 calculation: number MATVEC =3 time MATVEC13.76000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.37400000
+
+ Laguerre garmonic it = 438
+ processor 0 calculation: number MATVEC =3 time MATVEC15.54200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.35900000
+
+ Laguerre garmonic it = 439
+ processor 0 calculation: number MATVEC =3 time MATVEC13.43600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.45000000
+
+ Laguerre garmonic it = 440
+ processor 0 calculation: number MATVEC =3 time MATVEC14.57300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.18300000
+
+ Laguerre garmonic it = 441
+ processor 0 calculation: number MATVEC =3 time MATVEC15.52400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.42500000
+
+ Laguerre garmonic it = 442
+ processor 0 calculation: number MATVEC =3 time MATVEC14.69500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.58300000
+
+ Laguerre garmonic it = 443
+ processor 0 calculation: number MATVEC =3 time MATVEC13.53000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.54800000
+
+ Laguerre garmonic it = 444
+ processor 0 calculation: number MATVEC =3 time MATVEC14.16400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.25100000
+
+ Laguerre garmonic it = 445
+ processor 0 calculation: number MATVEC =3 time MATVEC13.89300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.19400000
+
+ Laguerre garmonic it = 446
+ processor 0 calculation: number MATVEC =3 time MATVEC15.96900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.57600000
+
+ Laguerre garmonic it = 447
+ processor 0 calculation: number MATVEC =3 time MATVEC13.73400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.22800000
+
+ Laguerre garmonic it = 448
+ processor 0 calculation: number MATVEC =3 time MATVEC16.54800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.42400000
+
+ Laguerre garmonic it = 449
+ processor 0 calculation: number MATVEC =3 time MATVEC15.20800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.84900000
+
+ Laguerre garmonic it = 450
+ processor 0 calculation: number MATVEC =3 time MATVEC14.56400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.14900000
+ write of NUMPICT = 9
+------------------------------------------
+
+ Laguerre garmonic it = 451
+ processor 0 calculation: number MATVEC =3 time MATVEC24.09700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.02900000
+
+ Laguerre garmonic it = 452
+ processor 0 calculation: number MATVEC =3 time MATVEC13.77600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.36900000
+
+ Laguerre garmonic it = 453
+ processor 0 calculation: number MATVEC =3 time MATVEC15.24000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.63000000
+
+ Laguerre garmonic it = 454
+ processor 0 calculation: number MATVEC =3 time MATVEC12.97700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.42900000
+
+ Laguerre garmonic it = 455
+ processor 0 calculation: number MATVEC =3 time MATVEC13.43600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.50600000
+
+ Laguerre garmonic it = 456
+ processor 0 calculation: number MATVEC =3 time MATVEC17.08200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.32000000
+
+ Laguerre garmonic it = 457
+ processor 0 calculation: number MATVEC =3 time MATVEC14.40600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.78800000
+
+ Laguerre garmonic it = 458
+ processor 0 calculation: number MATVEC =3 time MATVEC16.06100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.20100000
+
+ Laguerre garmonic it = 459
+ processor 0 calculation: number MATVEC =3 time MATVEC13.50400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.10900000
+
+ Laguerre garmonic it = 460
+ processor 0 calculation: number MATVEC =3 time MATVEC14.36400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.93900000
+
+ Laguerre garmonic it = 461
+ processor 0 calculation: number MATVEC =3 time MATVEC14.10900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.60000000
+
+ Laguerre garmonic it = 462
+ processor 0 calculation: number MATVEC =3 time MATVEC14.08800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.81500000
+
+ Laguerre garmonic it = 463
+ processor 0 calculation: number MATVEC =3 time MATVEC23.08200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.64700000
+
+ Laguerre garmonic it = 464
+ processor 0 calculation: number MATVEC =3 time MATVEC17.71100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.46300000
+
+ Laguerre garmonic it = 465
+ processor 0 calculation: number MATVEC =3 time MATVEC13.18700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.30000000
+
+ Laguerre garmonic it = 466
+ processor 0 calculation: number MATVEC =3 time MATVEC14.91000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.29800000
+
+ Laguerre garmonic it = 467
+ processor 0 calculation: number MATVEC =3 time MATVEC14.62900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.84900000
+
+ Laguerre garmonic it = 468
+ processor 0 calculation: number MATVEC =3 time MATVEC18.62000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.45700000
+
+ Laguerre garmonic it = 469
+ processor 0 calculation: number MATVEC =3 time MATVEC15.13500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.67100000
+
+ Laguerre garmonic it = 470
+ processor 0 calculation: number MATVEC =3 time MATVEC14.04300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.07100000
+
+ Laguerre garmonic it = 471
+ processor 0 calculation: number MATVEC =3 time MATVEC13.64900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.97400000
+
+ Laguerre garmonic it = 472
+ processor 0 calculation: number MATVEC =3 time MATVEC15.42800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.69200000
+
+ Laguerre garmonic it = 473
+ processor 0 calculation: number MATVEC =3 time MATVEC14.81500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.31300000
+
+ Laguerre garmonic it = 474
+ processor 0 calculation: number MATVEC =3 time MATVEC13.78400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.56400000
+
+ Laguerre garmonic it = 475
+ processor 0 calculation: number MATVEC =3 time MATVEC15.42000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.19300000
+
+ Laguerre garmonic it = 476
+ processor 0 calculation: number MATVEC =3 time MATVEC16.57400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.55900000
+
+ Laguerre garmonic it = 477
+ processor 0 calculation: number MATVEC =3 time MATVEC14.34400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.74100000
+
+ Laguerre garmonic it = 478
+ processor 0 calculation: number MATVEC =3 time MATVEC16.56300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.75900000
+
+ Laguerre garmonic it = 479
+ processor 0 calculation: number MATVEC =3 time MATVEC13.79400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.48200000
+
+ Laguerre garmonic it = 480
+ processor 0 calculation: number MATVEC =3 time MATVEC14.22700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.36900000
+
+ Laguerre garmonic it = 481
+ processor 0 calculation: number MATVEC =3 time MATVEC15.69500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.17200000
+
+ Laguerre garmonic it = 482
+ processor 0 calculation: number MATVEC =3 time MATVEC14.86200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.49900000
+
+ Laguerre garmonic it = 483
+ processor 0 calculation: number MATVEC =3 time MATVEC16.35600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.92000000
+
+ Laguerre garmonic it = 484
+ processor 0 calculation: number MATVEC =3 time MATVEC17.59100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.86900000
+
+ Laguerre garmonic it = 485
+ processor 0 calculation: number MATVEC =3 time MATVEC15.95100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.48900000
+
+ Laguerre garmonic it = 486
+ processor 0 calculation: number MATVEC =3 time MATVEC15.80100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.16500000
+
+ Laguerre garmonic it = 487
+ processor 0 calculation: number MATVEC =3 time MATVEC20.01500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.90400000
+
+ Laguerre garmonic it = 488
+ processor 0 calculation: number MATVEC =3 time MATVEC15.84200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.78000000
+
+ Laguerre garmonic it = 489
+ processor 0 calculation: number MATVEC =3 time MATVEC19.95100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.00400000
+
+ Laguerre garmonic it = 490
+ processor 0 calculation: number MATVEC =3 time MATVEC14.78700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.15400000
+
+ Laguerre garmonic it = 491
+ processor 0 calculation: number MATVEC =3 time MATVEC14.58700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.12400000
+
+ Laguerre garmonic it = 492
+ processor 0 calculation: number MATVEC =3 time MATVEC17.81200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.08200000
+
+ Laguerre garmonic it = 493
+ processor 0 calculation: number MATVEC =3 time MATVEC15.21000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.83100000
+
+ Laguerre garmonic it = 494
+ processor 0 calculation: number MATVEC =3 time MATVEC19.84100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.80400000
+
+ Laguerre garmonic it = 495
+ processor 0 calculation: number MATVEC =3 time MATVEC14.22900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.42800000
+
+ Laguerre garmonic it = 496
+ processor 0 calculation: number MATVEC =3 time MATVEC15.93500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.04600000
+
+ Laguerre garmonic it = 497
+ processor 0 calculation: number MATVEC =3 time MATVEC20.26800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.45000000
+
+ Laguerre garmonic it = 498
+ processor 0 calculation: number MATVEC =3 time MATVEC13.67800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.88900000
+
+ Laguerre garmonic it = 499
+ processor 0 calculation: number MATVEC =3 time MATVEC22.73100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.76900000
+
+ Laguerre garmonic it = 500
+ processor 0 calculation: number MATVEC =3 time MATVEC15.74600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.17900000
+ write of NUMPICT = 10
+------------------------------------------
+
+ Laguerre garmonic it = 501
+ processor 0 calculation: number MATVEC =3 time MATVEC19.41100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.30900000
+ write of NUMPICT = 11
+------------------------------------------
+
+ Laguerre garmonic it = 502
+ processor 0 calculation: number MATVEC =3 time MATVEC21.30100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.74700000
+
+ Laguerre garmonic it = 503
+ processor 0 calculation: number MATVEC =3 time MATVEC18.51000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.49800000
+
+ Laguerre garmonic it = 504
+ processor 0 calculation: number MATVEC =3 time MATVEC14.50300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.98700000
+
+ Laguerre garmonic it = 505
+ processor 0 calculation: number MATVEC =3 time MATVEC16.72700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.55900000
+
+ Laguerre garmonic it = 506
+ processor 0 calculation: number MATVEC =3 time MATVEC14.59500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.93000000
+
+ Laguerre garmonic it = 507
+ processor 0 calculation: number MATVEC =3 time MATVEC14.22600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.98900000
+
+ Laguerre garmonic it = 508
+ processor 0 calculation: number MATVEC =3 time MATVEC14.99800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.67100000
+
+ Laguerre garmonic it = 509
+ processor 0 calculation: number MATVEC =3 time MATVEC19.18700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.20400000
+
+ Laguerre garmonic it = 510
+ processor 0 calculation: number MATVEC =3 time MATVEC13.58600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.09900000
+
+ Laguerre garmonic it = 511
+ processor 0 calculation: number MATVEC =3 time MATVEC19.21400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.80000000
+
+ Laguerre garmonic it = 512
+ processor 0 calculation: number MATVEC =3 time MATVEC13.62600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.77000000
+
+ Laguerre garmonic it = 513
+ processor 0 calculation: number MATVEC =3 time MATVEC15.40900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.37800000
+
+ Laguerre garmonic it = 514
+ processor 0 calculation: number MATVEC =3 time MATVEC13.35500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.61200000
+
+ Laguerre garmonic it = 515
+ processor 0 calculation: number MATVEC =3 time MATVEC16.03900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.24800000
+
+ Laguerre garmonic it = 516
+ processor 0 calculation: number MATVEC =3 time MATVEC14.29100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.47100000
+
+ Laguerre garmonic it = 517
+ processor 0 calculation: number MATVEC =3 time MATVEC14.45000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.07800000
+
+ Laguerre garmonic it = 518
+ processor 0 calculation: number MATVEC =3 time MATVEC15.34500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.99100000
+
+ Laguerre garmonic it = 519
+ processor 0 calculation: number MATVEC =3 time MATVEC23.55700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.49000000
+
+ Laguerre garmonic it = 520
+ processor 0 calculation: number MATVEC =3 time MATVEC17.36400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.71300000
+
+ Laguerre garmonic it = 521
+ processor 0 calculation: number MATVEC =3 time MATVEC13.22900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.30300000
+
+ Laguerre garmonic it = 522
+ processor 0 calculation: number MATVEC =3 time MATVEC20.11000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.73300000
+
+ Laguerre garmonic it = 523
+ processor 0 calculation: number MATVEC =3 time MATVEC14.86800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.72500000
+
+ Laguerre garmonic it = 524
+ processor 0 calculation: number MATVEC =3 time MATVEC15.18100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.15100000
+
+ Laguerre garmonic it = 525
+ processor 0 calculation: number MATVEC =3 time MATVEC23.60800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.74500000
+
+ Laguerre garmonic it = 526
+ processor 0 calculation: number MATVEC =3 time MATVEC15.72300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.04600000
+
+ Laguerre garmonic it = 527
+ processor 0 calculation: number MATVEC =3 time MATVEC16.26800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.78600000
+
+ Laguerre garmonic it = 528
+ processor 0 calculation: number MATVEC =3 time MATVEC19.55700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.51400000
+
+ Laguerre garmonic it = 529
+ processor 0 calculation: number MATVEC =3 time MATVEC21.09700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.28800000
+
+ Laguerre garmonic it = 530
+ processor 0 calculation: number MATVEC =3 time MATVEC19.37900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.40000000
+
+ Laguerre garmonic it = 531
+ processor 0 calculation: number MATVEC =3 time MATVEC15.93600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.86600000
+
+ Laguerre garmonic it = 532
+ processor 0 calculation: number MATVEC =3 time MATVEC16.53100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.50800000
+
+ Laguerre garmonic it = 533
+ processor 0 calculation: number MATVEC =3 time MATVEC16.18000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.96600000
+
+ Laguerre garmonic it = 534
+ processor 0 calculation: number MATVEC =3 time MATVEC18.80100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.49700000
+
+ Laguerre garmonic it = 535
+ processor 0 calculation: number MATVEC =3 time MATVEC17.93700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.46400000
+
+ Laguerre garmonic it = 536
+ processor 0 calculation: number MATVEC =3 time MATVEC19.47800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.06000000
+
+ Laguerre garmonic it = 537
+ processor 0 calculation: number MATVEC =3 time MATVEC18.83100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.16300000
+
+ Laguerre garmonic it = 538
+ processor 0 calculation: number MATVEC =3 time MATVEC17.16100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.36300000
+
+ Laguerre garmonic it = 539
+ processor 0 calculation: number MATVEC =3 time MATVEC15.06200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.98500000
+
+ Laguerre garmonic it = 540
+ processor 0 calculation: number MATVEC =3 time MATVEC20.74500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.46800000
+
+ Laguerre garmonic it = 541
+ processor 0 calculation: number MATVEC =3 time MATVEC14.94300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.46800000
+
+ Laguerre garmonic it = 542
+ processor 0 calculation: number MATVEC =3 time MATVEC21.68800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     37.60000000
+
+ Laguerre garmonic it = 543
+ processor 0 calculation: number MATVEC =3 time MATVEC16.18400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.95400000
+
+ Laguerre garmonic it = 544
+ processor 0 calculation: number MATVEC =3 time MATVEC19.45800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.39100000
+
+ Laguerre garmonic it = 545
+ processor 0 calculation: number MATVEC =3 time MATVEC21.10700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.38300000
+
+ Laguerre garmonic it = 546
+ processor 0 calculation: number MATVEC =3 time MATVEC25.08500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     34.20700000
+
+ Laguerre garmonic it = 547
+ processor 0 calculation: number MATVEC =3 time MATVEC15.99800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.40600000
+
+ Laguerre garmonic it = 548
+ processor 0 calculation: number MATVEC =3 time MATVEC24.21400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     35.00500000
+
+ Laguerre garmonic it = 549
+ processor 0 calculation: number MATVEC =3 time MATVEC17.82400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.82700000
+
+ Laguerre garmonic it = 550
+ processor 0 calculation: number MATVEC =3 time MATVEC18.60000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.33900000
+ write of NUMPICT = 12
+------------------------------------------
+
+ Laguerre garmonic it = 551
+ processor 0 calculation: number MATVEC =3 time MATVEC15.34600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.27000000
+
+ Laguerre garmonic it = 552
+ processor 0 calculation: number MATVEC =3 time MATVEC20.19000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.58800000
+
+ Laguerre garmonic it = 553
+ processor 0 calculation: number MATVEC =3 time MATVEC13.96100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.97900000
+
+ Laguerre garmonic it = 554
+ processor 0 calculation: number MATVEC =3 time MATVEC14.86900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.03500000
+
+ Laguerre garmonic it = 555
+ processor 0 calculation: number MATVEC =3 time MATVEC16.89600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.57700000
+
+ Laguerre garmonic it = 556
+ processor 0 calculation: number MATVEC =3 time MATVEC17.12100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.92600000
+
+ Laguerre garmonic it = 557
+ processor 0 calculation: number MATVEC =3 time MATVEC20.26400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.18300000
+
+ Laguerre garmonic it = 558
+ processor 0 calculation: number MATVEC =3 time MATVEC15.44600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.44400000
+
+ Laguerre garmonic it = 559
+ processor 0 calculation: number MATVEC =3 time MATVEC20.23100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.19900000
+
+ Laguerre garmonic it = 560
+ processor 0 calculation: number MATVEC =3 time MATVEC18.95000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     31.44700000
+
+ Laguerre garmonic it = 561
+ processor 0 calculation: number MATVEC =3 time MATVEC22.42900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.06200000
+
+ Laguerre garmonic it = 562
+ processor 0 calculation: number MATVEC =3 time MATVEC19.00900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.88100000
+
+ Laguerre garmonic it = 563
+ processor 0 calculation: number MATVEC =3 time MATVEC14.74500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.78900000
+
+ Laguerre garmonic it = 564
+ processor 0 calculation: number MATVEC =3 time MATVEC15.90000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.19100000
+
+ Laguerre garmonic it = 565
+ processor 0 calculation: number MATVEC =3 time MATVEC15.16700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.91100000
+
+ Laguerre garmonic it = 566
+ processor 0 calculation: number MATVEC =3 time MATVEC21.74000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.07800000
+
+ Laguerre garmonic it = 567
+ processor 0 calculation: number MATVEC =3 time MATVEC15.07800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.59700000
+
+ Laguerre garmonic it = 568
+ processor 0 calculation: number MATVEC =3 time MATVEC15.17000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.61400000
+
+ Laguerre garmonic it = 569
+ processor 0 calculation: number MATVEC =3 time MATVEC17.05700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.19900000
+
+ Laguerre garmonic it = 570
+ processor 0 calculation: number MATVEC =3 time MATVEC13.94600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     18.32100000
+
+ Laguerre garmonic it = 571
+ processor 0 calculation: number MATVEC =3 time MATVEC15.35300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.13400000
+
+ Laguerre garmonic it = 572
+ processor 0 calculation: number MATVEC =3 time MATVEC18.94500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.98000000
+
+ Laguerre garmonic it = 573
+ processor 0 calculation: number MATVEC =3 time MATVEC14.30400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.20700000
+
+ Laguerre garmonic it = 574
+ processor 0 calculation: number MATVEC =3 time MATVEC15.04900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.09200000
+
+ Laguerre garmonic it = 575
+ processor 0 calculation: number MATVEC =3 time MATVEC18.67400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.20500000
+
+ Laguerre garmonic it = 576
+ processor 0 calculation: number MATVEC =3 time MATVEC15.04700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.50200000
+
+ Laguerre garmonic it = 577
+ processor 0 calculation: number MATVEC =3 time MATVEC16.43900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.04800000
+
+ Laguerre garmonic it = 578
+ processor 0 calculation: number MATVEC =3 time MATVEC16.45600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.13500000
+
+ Laguerre garmonic it = 579
+ processor 0 calculation: number MATVEC =3 time MATVEC18.25300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.48200000
+
+ Laguerre garmonic it = 580
+ processor 0 calculation: number MATVEC =3 time MATVEC16.09200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.99600000
+
+ Laguerre garmonic it = 581
+ processor 0 calculation: number MATVEC =3 time MATVEC15.24800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.79400000
+
+ Laguerre garmonic it = 582
+ processor 0 calculation: number MATVEC =3 time MATVEC15.10200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.55400000
+
+ Laguerre garmonic it = 583
+ processor 0 calculation: number MATVEC =3 time MATVEC15.15500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.90900000
+
+ Laguerre garmonic it = 584
+ processor 0 calculation: number MATVEC =3 time MATVEC15.02200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.35400000
+
+ Laguerre garmonic it = 585
+ processor 0 calculation: number MATVEC =3 time MATVEC18.61600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.33800000
+
+ Laguerre garmonic it = 586
+ processor 0 calculation: number MATVEC =3 time MATVEC14.11100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.06200000
+
+ Laguerre garmonic it = 587
+ processor 0 calculation: number MATVEC =3 time MATVEC14.89000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.61800000
+
+ Laguerre garmonic it = 588
+ processor 0 calculation: number MATVEC =3 time MATVEC16.38600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.88300000
+
+ Laguerre garmonic it = 589
+ processor 0 calculation: number MATVEC =3 time MATVEC17.32300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.06200000
+
+ Laguerre garmonic it = 590
+ processor 0 calculation: number MATVEC =3 time MATVEC16.36800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.87100000
+
+ Laguerre garmonic it = 591
+ processor 0 calculation: number MATVEC =3 time MATVEC15.67600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.63200000
+
+ Laguerre garmonic it = 592
+ processor 0 calculation: number MATVEC =3 time MATVEC15.12300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.35800000
+
+ Laguerre garmonic it = 593
+ processor 0 calculation: number MATVEC =3 time MATVEC15.26400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.10800000
+
+ Laguerre garmonic it = 594
+ processor 0 calculation: number MATVEC =3 time MATVEC14.05100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.86800000
+
+ Laguerre garmonic it = 595
+ processor 0 calculation: number MATVEC =3 time MATVEC14.63300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.07300000
+
+ Laguerre garmonic it = 596
+ processor 0 calculation: number MATVEC =3 time MATVEC15.28500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.18100000
+
+ Laguerre garmonic it = 597
+ processor 0 calculation: number MATVEC =3 time MATVEC15.18100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.92700000
+
+ Laguerre garmonic it = 598
+ processor 0 calculation: number MATVEC =3 time MATVEC18.08300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.49400000
+
+ Laguerre garmonic it = 599
+ processor 0 calculation: number MATVEC =3 time MATVEC21.13500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.63200000
+
+ Laguerre garmonic it = 600
+ processor 0 calculation: number MATVEC =3 time MATVEC14.51200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.67200000
+ write of NUMPICT = 13
+------------------------------------------
+
+ Laguerre garmonic it = 601
+ processor 0 calculation: number MATVEC =3 time MATVEC22.72100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.04600000
+ write of NUMPICT = 14
+------------------------------------------
+
+ Laguerre garmonic it = 602
+ processor 0 calculation: number MATVEC =3 time MATVEC17.65900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     34.07300000
+
+ Laguerre garmonic it = 603
+ processor 0 calculation: number MATVEC =3 time MATVEC15.94700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.65800000
+
+ Laguerre garmonic it = 604
+ processor 0 calculation: number MATVEC =3 time MATVEC15.99300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.80800000
+
+ Laguerre garmonic it = 605
+ processor 0 calculation: number MATVEC =3 time MATVEC15.57200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.79400000
+
+ Laguerre garmonic it = 606
+ processor 0 calculation: number MATVEC =3 time MATVEC17.07800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.04900000
+
+ Laguerre garmonic it = 607
+ processor 0 calculation: number MATVEC =3 time MATVEC17.72300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.54500000
+
+ Laguerre garmonic it = 608
+ processor 0 calculation: number MATVEC =3 time MATVEC14.62500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.92300000
+
+ Laguerre garmonic it = 609
+ processor 0 calculation: number MATVEC =3 time MATVEC15.98300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.58900000
+
+ Laguerre garmonic it = 610
+ processor 0 calculation: number MATVEC =3 time MATVEC15.65500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.74500000
+
+ Laguerre garmonic it = 611
+ processor 0 calculation: number MATVEC =3 time MATVEC14.69100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.18800000
+
+ Laguerre garmonic it = 612
+ processor 0 calculation: number MATVEC =3 time MATVEC17.11400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.39900000
+
+ Laguerre garmonic it = 613
+ processor 0 calculation: number MATVEC =3 time MATVEC14.30400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.12300000
+
+ Laguerre garmonic it = 614
+ processor 0 calculation: number MATVEC =3 time MATVEC15.33100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.22500000
+
+ Laguerre garmonic it = 615
+ processor 0 calculation: number MATVEC =3 time MATVEC14.70400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.41300000
+
+ Laguerre garmonic it = 616
+ processor 0 calculation: number MATVEC =3 time MATVEC15.53100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.02600000
+
+ Laguerre garmonic it = 617
+ processor 0 calculation: number MATVEC =3 time MATVEC16.71200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.25500000
+
+ Laguerre garmonic it = 618
+ processor 0 calculation: number MATVEC =3 time MATVEC20.00500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     32.79200000
+
+ Laguerre garmonic it = 619
+ processor 0 calculation: number MATVEC =3 time MATVEC18.48300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.57000000
+
+ Laguerre garmonic it = 620
+ processor 0 calculation: number MATVEC =3 time MATVEC15.06000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.60800000
+
+ Laguerre garmonic it = 621
+ processor 0 calculation: number MATVEC =3 time MATVEC16.92400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.19200000
+
+ Laguerre garmonic it = 622
+ processor 0 calculation: number MATVEC =3 time MATVEC13.68800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.27200000
+
+ Laguerre garmonic it = 623
+ processor 0 calculation: number MATVEC =3 time MATVEC15.16100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.37300000
+
+ Laguerre garmonic it = 624
+ processor 0 calculation: number MATVEC =3 time MATVEC14.05500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.37700000
+
+ Laguerre garmonic it = 625
+ processor 0 calculation: number MATVEC =3 time MATVEC16.26300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.06500000
+
+ Laguerre garmonic it = 626
+ processor 0 calculation: number MATVEC =3 time MATVEC14.95900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.85700000
+
+ Laguerre garmonic it = 627
+ processor 0 calculation: number MATVEC =3 time MATVEC14.10600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.91300000
+
+ Laguerre garmonic it = 628
+ processor 0 calculation: number MATVEC =3 time MATVEC15.44500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.16800000
+
+ Laguerre garmonic it = 629
+ processor 0 calculation: number MATVEC =3 time MATVEC16.68800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.41800000
+
+ Laguerre garmonic it = 630
+ processor 0 calculation: number MATVEC =3 time MATVEC14.75600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.27900000
+
+ Laguerre garmonic it = 631
+ processor 0 calculation: number MATVEC =3 time MATVEC14.47400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.08100000
+
+ Laguerre garmonic it = 632
+ processor 0 calculation: number MATVEC =3 time MATVEC19.54900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.46600000
+
+ Laguerre garmonic it = 633
+ processor 0 calculation: number MATVEC =3 time MATVEC19.72500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.22600000
+
+ Laguerre garmonic it = 634
+ processor 0 calculation: number MATVEC =3 time MATVEC14.29900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.11800000
+
+ Laguerre garmonic it = 635
+ processor 0 calculation: number MATVEC =3 time MATVEC16.32600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.26000000
+
+ Laguerre garmonic it = 636
+ processor 0 calculation: number MATVEC =3 time MATVEC15.42500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.07000000
+
+ Laguerre garmonic it = 637
+ processor 0 calculation: number MATVEC =3 time MATVEC15.33700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.14400000
+
+ Laguerre garmonic it = 638
+ processor 0 calculation: number MATVEC =3 time MATVEC15.34400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.89700000
+
+ Laguerre garmonic it = 639
+ processor 0 calculation: number MATVEC =3 time MATVEC19.42200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     30.78400000
+
+ Laguerre garmonic it = 640
+ processor 0 calculation: number MATVEC =3 time MATVEC15.73400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.99600000
+
+ Laguerre garmonic it = 641
+ processor 0 calculation: number MATVEC =3 time MATVEC16.78600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.39200000
+
+ Laguerre garmonic it = 642
+ processor 0 calculation: number MATVEC =3 time MATVEC16.29900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.88000000
+
+ Laguerre garmonic it = 643
+ processor 0 calculation: number MATVEC =3 time MATVEC18.93800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.40700000
+
+ Laguerre garmonic it = 644
+ processor 0 calculation: number MATVEC =3 time MATVEC14.43200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.61300000
+
+ Laguerre garmonic it = 645
+ processor 0 calculation: number MATVEC =3 time MATVEC17.86700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.68100000
+
+ Laguerre garmonic it = 646
+ processor 0 calculation: number MATVEC =3 time MATVEC15.40100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.93900000
+
+ Laguerre garmonic it = 647
+ processor 0 calculation: number MATVEC =3 time MATVEC14.85700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.52300000
+
+ Laguerre garmonic it = 648
+ processor 0 calculation: number MATVEC =3 time MATVEC18.28600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.35400000
+
+ Laguerre garmonic it = 649
+ processor 0 calculation: number MATVEC =3 time MATVEC15.22200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.90500000
+
+ Laguerre garmonic it = 650
+ processor 0 calculation: number MATVEC =3 time MATVEC14.43500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.80800000
+ write of NUMPICT = 15
+------------------------------------------
+
+ Laguerre garmonic it = 651
+ processor 0 calculation: number MATVEC =3 time MATVEC19.79800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     35.05100000
+ write of NUMPICT = 16
+------------------------------------------
+
+ Laguerre garmonic it = 652
+ processor 0 calculation: number MATVEC =3 time MATVEC19.60600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.59100000
+
+ Laguerre garmonic it = 653
+ processor 0 calculation: number MATVEC =3 time MATVEC18.78200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.86400000
+
+ Laguerre garmonic it = 654
+ processor 0 calculation: number MATVEC =3 time MATVEC13.88000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.78400000
+
+ Laguerre garmonic it = 655
+ processor 0 calculation: number MATVEC =3 time MATVEC25.11500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     36.67200000
+
+ Laguerre garmonic it = 656
+ processor 0 calculation: number MATVEC =3 time MATVEC14.66100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.01600000
+
+ Laguerre garmonic it = 657
+ processor 0 calculation: number MATVEC =3 time MATVEC15.12400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.19200000
+
+ Laguerre garmonic it = 658
+ processor 0 calculation: number MATVEC =3 time MATVEC15.57500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.08700000
+
+ Laguerre garmonic it = 659
+ processor 0 calculation: number MATVEC =3 time MATVEC16.32800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.66500000
+
+ Laguerre garmonic it = 660
+ processor 0 calculation: number MATVEC =3 time MATVEC15.27800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.21100000
+
+ Laguerre garmonic it = 661
+ processor 0 calculation: number MATVEC =3 time MATVEC14.91500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.58800000
+
+ Laguerre garmonic it = 662
+ processor 0 calculation: number MATVEC =3 time MATVEC15.64700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.66900000
+
+ Laguerre garmonic it = 663
+ processor 0 calculation: number MATVEC =3 time MATVEC15.27500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.59100000
+
+ Laguerre garmonic it = 664
+ processor 0 calculation: number MATVEC =3 time MATVEC15.17800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.83300000
+
+ Laguerre garmonic it = 665
+ processor 0 calculation: number MATVEC =3 time MATVEC18.71900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.92000000
+
+ Laguerre garmonic it = 666
+ processor 0 calculation: number MATVEC =3 time MATVEC14.41400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.77200000
+
+ Laguerre garmonic it = 667
+ processor 0 calculation: number MATVEC =3 time MATVEC23.78800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     36.37500000
+
+ Laguerre garmonic it = 668
+ processor 0 calculation: number MATVEC =3 time MATVEC14.16800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.94100000
+
+ Laguerre garmonic it = 669
+ processor 0 calculation: number MATVEC =3 time MATVEC16.70400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.01300000
+
+ Laguerre garmonic it = 670
+ processor 0 calculation: number MATVEC =3 time MATVEC17.41000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.21800000
+
+ Laguerre garmonic it = 671
+ processor 0 calculation: number MATVEC =3 time MATVEC14.54200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.08000000
+
+ Laguerre garmonic it = 672
+ processor 0 calculation: number MATVEC =3 time MATVEC15.91800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.73700000
+
+ Laguerre garmonic it = 673
+ processor 0 calculation: number MATVEC =3 time MATVEC15.44000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.90100000
+
+ Laguerre garmonic it = 674
+ processor 0 calculation: number MATVEC =3 time MATVEC12.58700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     16.66300000
+
+ Laguerre garmonic it = 675
+ processor 0 calculation: number MATVEC =3 time MATVEC14.09300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.16900000
+
+ Laguerre garmonic it = 676
+ processor 0 calculation: number MATVEC =3 time MATVEC14.77800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.45500000
+
+ Laguerre garmonic it = 677
+ processor 0 calculation: number MATVEC =3 time MATVEC13.80900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     20.21400000
+
+ Laguerre garmonic it = 678
+ processor 0 calculation: number MATVEC =3 time MATVEC14.15600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.63500000
+
+ Laguerre garmonic it = 679
+ processor 0 calculation: number MATVEC =3 time MATVEC13.95100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.29100000
+
+ Laguerre garmonic it = 680
+ processor 0 calculation: number MATVEC =3 time MATVEC15.22200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.45200000
+
+ Laguerre garmonic it = 681
+ processor 0 calculation: number MATVEC =3 time MATVEC16.45100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.08000000
+
+ Laguerre garmonic it = 682
+ processor 0 calculation: number MATVEC =3 time MATVEC14.59600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.42400000
+
+ Laguerre garmonic it = 683
+ processor 0 calculation: number MATVEC =3 time MATVEC15.15900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.10700000
+
+ Laguerre garmonic it = 684
+ processor 0 calculation: number MATVEC =3 time MATVEC14.25000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.94800000
+
+ Laguerre garmonic it = 685
+ processor 0 calculation: number MATVEC =3 time MATVEC14.88700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.24200000
+
+ Laguerre garmonic it = 686
+ processor 0 calculation: number MATVEC =3 time MATVEC15.92900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.65200000
+
+ Laguerre garmonic it = 687
+ processor 0 calculation: number MATVEC =3 time MATVEC17.31200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.64900000
+
+ Laguerre garmonic it = 688
+ processor 0 calculation: number MATVEC =3 time MATVEC15.22500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.61200000
+
+ Laguerre garmonic it = 689
+ processor 0 calculation: number MATVEC =3 time MATVEC16.14700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.11100000
+
+ Laguerre garmonic it = 690
+ processor 0 calculation: number MATVEC =3 time MATVEC19.74800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.82900000
+
+ Laguerre garmonic it = 691
+ processor 0 calculation: number MATVEC =3 time MATVEC14.17600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     19.51100000
+
+ Laguerre garmonic it = 692
+ processor 0 calculation: number MATVEC =3 time MATVEC16.46000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.49500000
+
+ Laguerre garmonic it = 693
+ processor 0 calculation: number MATVEC =3 time MATVEC16.85000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.36800000
+
+ Laguerre garmonic it = 694
+ processor 0 calculation: number MATVEC =3 time MATVEC16.12700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.79200000
+
+ Laguerre garmonic it = 695
+ processor 0 calculation: number MATVEC =3 time MATVEC17.79300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.75800000
+
+ Laguerre garmonic it = 696
+ processor 0 calculation: number MATVEC =3 time MATVEC21.73600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     33.19800000
+
+ Laguerre garmonic it = 697
+ processor 0 calculation: number MATVEC =3 time MATVEC15.70700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.14800000
+
+ Laguerre garmonic it = 698
+ processor 0 calculation: number MATVEC =3 time MATVEC17.37900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.80900000
+
+ Laguerre garmonic it = 699
+ processor 0 calculation: number MATVEC =3 time MATVEC14.96500000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.02400000
+
+ Laguerre garmonic it = 700
+ processor 0 calculation: number MATVEC =3 time MATVEC17.07800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.97200000
+ write of NUMPICT = 17
+------------------------------------------
+
+ Laguerre garmonic it = 701
+ processor 0 calculation: number MATVEC =3 time MATVEC15.28600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.19300000
+
+ Laguerre garmonic it = 702
+ processor 0 calculation: number MATVEC =3 time MATVEC16.97800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.75300000
+
+ Laguerre garmonic it = 703
+ processor 0 calculation: number MATVEC =3 time MATVEC15.25400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.11700000
+
+ Laguerre garmonic it = 704
+ processor 0 calculation: number MATVEC =3 time MATVEC18.85900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     27.01500000
+
+ Laguerre garmonic it = 705
+ processor 0 calculation: number MATVEC =3 time MATVEC16.03800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.07600000
+
+ Laguerre garmonic it = 706
+ processor 0 calculation: number MATVEC =3 time MATVEC15.75800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.45500000
+
+ Laguerre garmonic it = 707
+ processor 0 calculation: number MATVEC =3 time MATVEC19.13900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.67700000
+
+ Laguerre garmonic it = 708
+ processor 0 calculation: number MATVEC =3 time MATVEC15.94600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.88300000
+
+ Laguerre garmonic it = 709
+ processor 0 calculation: number MATVEC =3 time MATVEC20.83300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     30.86700000
+
+ Laguerre garmonic it = 710
+ processor 0 calculation: number MATVEC =3 time MATVEC17.33200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.42800000
+
+ Laguerre garmonic it = 711
+ processor 0 calculation: number MATVEC =3 time MATVEC19.21900000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.42500000
+
+ Laguerre garmonic it = 712
+ processor 0 calculation: number MATVEC =3 time MATVEC15.73400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.47600000
+
+ Laguerre garmonic it = 713
+ processor 0 calculation: number MATVEC =3 time MATVEC15.87000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.77500000
+
+ Laguerre garmonic it = 714
+ processor 0 calculation: number MATVEC =3 time MATVEC18.58000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.16300000
+
+ Laguerre garmonic it = 715
+ processor 0 calculation: number MATVEC =3 time MATVEC13.39200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.44100000
+
+ Laguerre garmonic it = 716
+ processor 0 calculation: number MATVEC =3 time MATVEC18.27000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.53400000
+
+ Laguerre garmonic it = 717
+ processor 0 calculation: number MATVEC =3 time MATVEC15.37800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.73400000
+
+ Laguerre garmonic it = 718
+ processor 0 calculation: number MATVEC =3 time MATVEC20.82800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     28.60600000
+
+ Laguerre garmonic it = 719
+ processor 0 calculation: number MATVEC =3 time MATVEC16.50200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.10800000
+
+ Laguerre garmonic it = 720
+ processor 0 calculation: number MATVEC =3 time MATVEC15.71700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.04800000
+
+ Laguerre garmonic it = 721
+ processor 0 calculation: number MATVEC =3 time MATVEC19.50300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     29.33100000
+
+ Laguerre garmonic it = 722
+ processor 0 calculation: number MATVEC =3 time MATVEC15.15400000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.46000000
+
+ Laguerre garmonic it = 723
+ processor 0 calculation: number MATVEC =3 time MATVEC14.64200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.52900000
+
+ Laguerre garmonic it = 724
+ processor 0 calculation: number MATVEC =3 time MATVEC16.07200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.08400000
+
+ Laguerre garmonic it = 725
+ processor 0 calculation: number MATVEC =3 time MATVEC19.67100000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.73800000
+
+ Laguerre garmonic it = 726
+ processor 0 calculation: number MATVEC =3 time MATVEC15.87300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.57200000
+
+ Laguerre garmonic it = 727
+ processor 0 calculation: number MATVEC =3 time MATVEC16.32200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     24.35200000
+
+ Laguerre garmonic it = 728
+ processor 0 calculation: number MATVEC =3 time MATVEC14.39000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.99600000
+
+ Laguerre garmonic it = 729
+ processor 0 calculation: number MATVEC =3 time MATVEC15.35200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.13000000
+
+ Laguerre garmonic it = 730
+ processor 0 calculation: number MATVEC =3 time MATVEC16.38000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     22.72800000
+
+ Laguerre garmonic it = 731
+ processor 0 calculation: number MATVEC =3 time MATVEC15.51200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     21.27500000
+
+ Laguerre garmonic it = 732
+ processor 0 calculation: number MATVEC =3 time MATVEC18.35000000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.80100000
+
+ Laguerre garmonic it = 733
+ processor 0 calculation: number MATVEC =3 time MATVEC17.06800000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     25.62600000
+
+ Laguerre garmonic it = 734
+ processor 0 calculation: number MATVEC =3 time MATVEC16.56200000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     23.88800000
+
+ Laguerre garmonic it = 735
+ processor 0 calculation: number MATVEC =3 time MATVEC18.33300000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.80900000
+
+ Laguerre garmonic it = 736
+ processor 0 calculation: number MATVEC =3 time MATVEC17.35600000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.46600000
+
+ Laguerre garmonic it = 737
+ processor 0 calculation: number MATVEC =3 time MATVEC17.96700000
+
+CGS: N= 50640751
+  k=    -1 status=     0 steperr=    -1 norm=    -1.000000000
+  Execution time =     26.29200000

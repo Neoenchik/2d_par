@@ -1,0 +1,79 @@
+﻿  2d_par.cpp
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(224,42): warning C4552: '!=': result of expression not used
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(305,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(336,25): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(362,27): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(369,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(389,38): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(399,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(490,19): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(494,19): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(498,22): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(502,23): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(506,24): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(629,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(678,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(748,23): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(750,30): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(754,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(770,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(795,25): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(796,32): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(809,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(824,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1057,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1120,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1141,32): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1225,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1231,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1232,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1256,46): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1273,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1290,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1318,33): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1320,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1338,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1351,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1361,28): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1364,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1377,28): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1382,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1397,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1409,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1416,28): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1419,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1431,28): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1436,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1451,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1475,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1478,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1488,28): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1511,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1513,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1515,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1577,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1577,31): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1684,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1711,40): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1711,35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1830,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1830,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1833,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1833,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1836,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1836,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1882,36): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(1882,31): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(89,15): warning C4101: 'ALERR': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(170,17): warning C4101: 'JJ': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(169,22): warning C4101: 'IERR': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(93,47): warning C4101: 'DXX': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(92,36): warning C4101: 'xlamu': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(170,27): warning C4101: 'MYN': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(92,43): warning C4101: 'XNPI': unreferenced local variable
+C:\Users\gvozd\source\repos\2d_par\2d_par\2d_par.cpp(2703,17): warning C4101: 'STATUS': unreferenced local variable
+  2d_par.vcxproj -> C:\Users\gvozd\source\repos\2d_par\x64\Debug\2d_par.exe
